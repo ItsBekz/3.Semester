@@ -1,0 +1,18 @@
+﻿/* Style Sheet for the website */
+
+table, th, td
+{
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+table, th
+{
+    height: 100px;    
+}
+
+p.description
+{
+    text-align: center;
+    font-size: 20px;
+}
