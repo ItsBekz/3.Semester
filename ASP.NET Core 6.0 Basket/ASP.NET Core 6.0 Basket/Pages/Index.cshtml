@@ -1,0 +1,31 @@
+﻿@page
+@model ASP.NET_Core_6._0_Basket.Pages.IndexModel
+@section Styles {
+    <link rel="stylesheet" href="~/wwwroot/css/StyleSheet.css">
+}
+@{
+    ViewData["Title"] = "Login";
+}
+
+<body>
+    <div class="login-container">
+        <h2>Login</h2>
+        <div class="form-group">
+            <label for="username">Username</label>
+            <input type="text" id="username" required>
+        </div>
+        <div class="form-group">
+            <label for="password">Password</label>
+            <input type="password" id="password" required>
+        </div>
+        <button type="button" class="btn" onclick="login()">Login</button>
+    </div>
+
+    
+    
+    <script>
+        function login(){
+            window.location.href = "/Users/UserList";
+        }
+    </script>
+</body>

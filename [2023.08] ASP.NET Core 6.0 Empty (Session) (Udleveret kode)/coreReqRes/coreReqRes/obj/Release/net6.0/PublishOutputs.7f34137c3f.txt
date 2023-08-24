@@ -1,0 +1,7 @@
+C:\Users\jaha\source\repos\coreReqRes\coreReqRes\obj\Release\net6.0\PubTmp\Out\coreReqRes.exe
+C:\Users\jaha\source\repos\coreReqRes\coreReqRes\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Users\jaha\source\repos\coreReqRes\coreReqRes\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Users\jaha\source\repos\coreReqRes\coreReqRes\obj\Release\net6.0\PubTmp\Out\coreReqRes.dll
+C:\Users\jaha\source\repos\coreReqRes\coreReqRes\obj\Release\net6.0\PubTmp\Out\coreReqRes.deps.json
+C:\Users\jaha\source\repos\coreReqRes\coreReqRes\obj\Release\net6.0\PubTmp\Out\coreReqRes.runtimeconfig.json
+C:\Users\jaha\source\repos\coreReqRes\coreReqRes\obj\Release\net6.0\PubTmp\Out\coreReqRes.pdb

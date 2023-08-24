@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "kleMNBsjVVHXXjY9Oc68/xQdypqrPcQe7buUtgbGy52KgIODNWWbfzKaYMv1zwIkBC6+uCQn54bQqkqbxWWDMA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jaha\\source\\repos\\coreReqRes\\coreReqRes\\coreReqRes.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jaha\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x86\\6.0.11\\microsoft.netcore.app.runtime.win-x86.6.0.11.nupkg.sha512",
+    "C:\\Users\\jaha\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x86\\6.0.11\\microsoft.windowsdesktop.app.runtime.win-x86.6.0.11.nupkg.sha512",
+    "C:\\Users\\jaha\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x86\\6.0.11\\microsoft.aspnetcore.app.runtime.win-x86.6.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}

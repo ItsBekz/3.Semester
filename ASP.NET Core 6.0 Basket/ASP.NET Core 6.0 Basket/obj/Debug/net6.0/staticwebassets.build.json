@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "PHSIkSc1aYWg/vZH5LWQhKMrekNNfnyb3X1usydVsro=",
+  "Source": "ASP.NET Core 6.0 Basket",
+  "BasePath": "_content/ASP.NET Core 6.0 Basket",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ASP.NET Core 6.0 Basket\\wwwroot",
+      "Source": "ASP.NET Core 6.0 Basket",
+      "ContentRoot": "C:\\Users\\rebec\\Documents\\GitHub\\3.Semester\\ASP.NET Core 6.0 Basket\\ASP.NET Core 6.0 Basket\\wwwroot\\",
+      "BasePath": "_content/ASP.NET Core 6.0 Basket",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\rebec\\Documents\\GitHub\\3.Semester\\ASP.NET Core 6.0 Basket\\ASP.NET Core 6.0 Basket\\wwwroot\\css\\StyleSheet.css",
+      "SourceId": "ASP.NET Core 6.0 Basket",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\rebec\\Documents\\GitHub\\3.Semester\\ASP.NET Core 6.0 Basket\\ASP.NET Core 6.0 Basket\\wwwroot\\",
+      "BasePath": "_content/ASP.NET Core 6.0 Basket",
+      "RelativePath": "css/StyleSheet.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\StyleSheet.css"
+    }
+  ]
+}

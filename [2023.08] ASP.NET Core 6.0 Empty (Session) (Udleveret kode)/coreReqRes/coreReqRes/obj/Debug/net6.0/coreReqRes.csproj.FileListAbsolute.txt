@@ -1,0 +1,102 @@
+C:\Users\jaha\source\repos\coreReqRes\coreReqRes\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\jaha\source\repos\coreReqRes\coreReqRes\bin\Debug\net6.0\appsettings.json
+C:\Users\jaha\source\repos\coreReqRes\coreReqRes\bin\Debug\net6.0\coreReqRes.exe
+C:\Users\jaha\source\repos\coreReqRes\coreReqRes\bin\Debug\net6.0\coreReqRes.deps.json
+C:\Users\jaha\source\repos\coreReqRes\coreReqRes\bin\Debug\net6.0\coreReqRes.runtimeconfig.json
+C:\Users\jaha\source\repos\coreReqRes\coreReqRes\bin\Debug\net6.0\coreReqRes.dll
+C:\Users\jaha\source\repos\coreReqRes\coreReqRes\bin\Debug\net6.0\coreReqRes.pdb
+C:\Users\jaha\source\repos\coreReqRes\coreReqRes\obj\Debug\net6.0\coreReqRes.csproj.AssemblyReference.cache
+C:\Users\jaha\source\repos\coreReqRes\coreReqRes\obj\Debug\net6.0\coreReqRes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jaha\source\repos\coreReqRes\coreReqRes\obj\Debug\net6.0\coreReqRes.AssemblyInfoInputs.cache
+C:\Users\jaha\source\repos\coreReqRes\coreReqRes\obj\Debug\net6.0\coreReqRes.AssemblyInfo.cs
+C:\Users\jaha\source\repos\coreReqRes\coreReqRes\obj\Debug\net6.0\coreReqRes.csproj.CoreCompileInputs.cache
+C:\Users\jaha\source\repos\coreReqRes\coreReqRes\obj\Debug\net6.0\coreReqRes.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\jaha\source\repos\coreReqRes\coreReqRes\obj\Debug\net6.0\staticwebassets\msbuild.coreReqRes.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\jaha\source\repos\coreReqRes\coreReqRes\obj\Debug\net6.0\staticwebassets\msbuild.build.coreReqRes.props
+C:\Users\jaha\source\repos\coreReqRes\coreReqRes\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.coreReqRes.props
+C:\Users\jaha\source\repos\coreReqRes\coreReqRes\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.coreReqRes.props
+C:\Users\jaha\source\repos\coreReqRes\coreReqRes\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\jaha\source\repos\coreReqRes\coreReqRes\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\jaha\source\repos\coreReqRes\coreReqRes\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\jaha\source\repos\coreReqRes\coreReqRes\obj\Debug\net6.0\scopedcss\bundle\coreReqRes.styles.css
+C:\Users\jaha\source\repos\coreReqRes\coreReqRes\obj\Debug\net6.0\coreReqRes.dll
+C:\Users\jaha\source\repos\coreReqRes\coreReqRes\obj\Debug\net6.0\refint\coreReqRes.dll
+C:\Users\jaha\source\repos\coreReqRes\coreReqRes\obj\Debug\net6.0\coreReqRes.pdb
+C:\Users\jaha\source\repos\coreReqRes\coreReqRes\obj\Debug\net6.0\coreReqRes.genruntimeconfig.cache
+C:\Users\jaha\source\repos\coreReqRes\coreReqRes\obj\Debug\net6.0\ref\coreReqRes.dll
+C:\Users\jaha\source\repos\coreReqRes\coreReqRes\bin\Debug\net6.0\coreReqRes.staticwebassets.runtime.json
+C:\Users\jaha\source\repos\coreReqRes\coreReqRes\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\jaha\source\repos\coreReqRes\coreReqRes\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\jaha\source\repos\coreReqRes\coreReqRes\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\jaha\source\repos\coreReqRes\coreReqRes\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\jaha\source\repos\coreReqRes\coreReqRes\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\jaha\source\repos\coreReqRes\coreReqRes\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\jaha\source\repos\coreReqRes\coreReqRes\obj\Debug\net6.0\coreReqRes.csproj.CopyComplete
+C:\Users\jaha\Downloads\[2023.08] (4) ASP.NET Core 6.0 Web Server Opgave 1 (LØSNING)\coreReqRes\coreReqRes\obj\Debug\net6.0\coreReqRes.csproj.AssemblyReference.cache
+C:\Users\jaha\Downloads\[2023.08] (4) ASP.NET Core 6.0 Web Server Opgave 1 (LØSNING)\coreReqRes\coreReqRes\obj\Debug\net6.0\coreReqRes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jaha\Downloads\[2023.08] (4) ASP.NET Core 6.0 Web Server Opgave 1 (LØSNING)\coreReqRes\coreReqRes\obj\Debug\net6.0\coreReqRes.AssemblyInfoInputs.cache
+C:\Users\jaha\Downloads\[2023.08] (4) ASP.NET Core 6.0 Web Server Opgave 1 (LØSNING)\coreReqRes\coreReqRes\obj\Debug\net6.0\coreReqRes.AssemblyInfo.cs
+C:\Users\jaha\Downloads\[2023.08] (4) ASP.NET Core 6.0 Web Server Opgave 1 (LØSNING)\coreReqRes\coreReqRes\obj\Debug\net6.0\coreReqRes.csproj.CoreCompileInputs.cache
+C:\Users\jaha\Downloads\[2023.08] (4) ASP.NET Core 6.0 Web Server Opgave 1 (LØSNING)\coreReqRes\coreReqRes\obj\Debug\net6.0\coreReqRes.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\jaha\Downloads\[2023.08] (4) ASP.NET Core 6.0 Web Server Opgave 1 (LØSNING)\coreReqRes\coreReqRes\obj\Debug\net6.0\coreReqRes.dll
+C:\Users\jaha\Downloads\[2023.08] (4) ASP.NET Core 6.0 Web Server Opgave 1 (LØSNING)\coreReqRes\coreReqRes\obj\Debug\net6.0\refint\coreReqRes.dll
+C:\Users\jaha\Downloads\[2023.08] (4) ASP.NET Core 6.0 Web Server Opgave 1 (LØSNING)\coreReqRes\coreReqRes\obj\Debug\net6.0\coreReqRes.pdb
+C:\Users\jaha\Downloads\[2023.08] (4) ASP.NET Core 6.0 Web Server Opgave 1 (LØSNING)\coreReqRes\coreReqRes\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\jaha\Downloads\[2023.08] (4) ASP.NET Core 6.0 Web Server Opgave 1 (LØSNING)\coreReqRes\coreReqRes\bin\Debug\net6.0\appsettings.json
+C:\Users\jaha\Downloads\[2023.08] (4) ASP.NET Core 6.0 Web Server Opgave 1 (LØSNING)\coreReqRes\coreReqRes\bin\Debug\net6.0\coreReqRes.staticwebassets.runtime.json
+C:\Users\jaha\Downloads\[2023.08] (4) ASP.NET Core 6.0 Web Server Opgave 1 (LØSNING)\coreReqRes\coreReqRes\bin\Debug\net6.0\coreReqRes.exe
+C:\Users\jaha\Downloads\[2023.08] (4) ASP.NET Core 6.0 Web Server Opgave 1 (LØSNING)\coreReqRes\coreReqRes\bin\Debug\net6.0\coreReqRes.deps.json
+C:\Users\jaha\Downloads\[2023.08] (4) ASP.NET Core 6.0 Web Server Opgave 1 (LØSNING)\coreReqRes\coreReqRes\bin\Debug\net6.0\coreReqRes.runtimeconfig.json
+C:\Users\jaha\Downloads\[2023.08] (4) ASP.NET Core 6.0 Web Server Opgave 1 (LØSNING)\coreReqRes\coreReqRes\bin\Debug\net6.0\coreReqRes.dll
+C:\Users\jaha\Downloads\[2023.08] (4) ASP.NET Core 6.0 Web Server Opgave 1 (LØSNING)\coreReqRes\coreReqRes\bin\Debug\net6.0\coreReqRes.pdb
+C:\Users\jaha\Downloads\[2023.08] (4) ASP.NET Core 6.0 Web Server Opgave 1 (LØSNING)\coreReqRes\coreReqRes\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\jaha\Downloads\[2023.08] (4) ASP.NET Core 6.0 Web Server Opgave 1 (LØSNING)\coreReqRes\coreReqRes\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\jaha\Downloads\[2023.08] (4) ASP.NET Core 6.0 Web Server Opgave 1 (LØSNING)\coreReqRes\coreReqRes\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\jaha\Downloads\[2023.08] (4) ASP.NET Core 6.0 Web Server Opgave 1 (LØSNING)\coreReqRes\coreReqRes\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\jaha\Downloads\[2023.08] (4) ASP.NET Core 6.0 Web Server Opgave 1 (LØSNING)\coreReqRes\coreReqRes\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\jaha\Downloads\[2023.08] (4) ASP.NET Core 6.0 Web Server Opgave 1 (LØSNING)\coreReqRes\coreReqRes\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\jaha\Downloads\[2023.08] (4) ASP.NET Core 6.0 Web Server Opgave 1 (LØSNING)\coreReqRes\coreReqRes\obj\Debug\net6.0\staticwebassets\msbuild.coreReqRes.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\jaha\Downloads\[2023.08] (4) ASP.NET Core 6.0 Web Server Opgave 1 (LØSNING)\coreReqRes\coreReqRes\obj\Debug\net6.0\staticwebassets\msbuild.build.coreReqRes.props
+C:\Users\jaha\Downloads\[2023.08] (4) ASP.NET Core 6.0 Web Server Opgave 1 (LØSNING)\coreReqRes\coreReqRes\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.coreReqRes.props
+C:\Users\jaha\Downloads\[2023.08] (4) ASP.NET Core 6.0 Web Server Opgave 1 (LØSNING)\coreReqRes\coreReqRes\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.coreReqRes.props
+C:\Users\jaha\Downloads\[2023.08] (4) ASP.NET Core 6.0 Web Server Opgave 1 (LØSNING)\coreReqRes\coreReqRes\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\jaha\Downloads\[2023.08] (4) ASP.NET Core 6.0 Web Server Opgave 1 (LØSNING)\coreReqRes\coreReqRes\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\jaha\Downloads\[2023.08] (4) ASP.NET Core 6.0 Web Server Opgave 1 (LØSNING)\coreReqRes\coreReqRes\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\jaha\Downloads\[2023.08] (4) ASP.NET Core 6.0 Web Server Opgave 1 (LØSNING)\coreReqRes\coreReqRes\obj\Debug\net6.0\scopedcss\bundle\coreReqRes.styles.css
+C:\Users\jaha\Downloads\[2023.08] (4) ASP.NET Core 6.0 Web Server Opgave 1 (LØSNING)\coreReqRes\coreReqRes\obj\Debug\net6.0\coreReqRes.csproj.CopyComplete
+C:\Users\jaha\Downloads\[2023.08] (4) ASP.NET Core 6.0 Web Server Opgave 1 (LØSNING)\coreReqRes\coreReqRes\obj\Debug\net6.0\coreReqRes.genruntimeconfig.cache
+C:\Users\jaha\Downloads\[2023.08] (4) ASP.NET Core 6.0 Web Server Opgave 1 (LØSNING)\coreReqRes\coreReqRes\obj\Debug\net6.0\ref\coreReqRes.dll
+C:\Users\rebec\Documents\GitHub\3.Semester\[2023.08] ASP.NET Core 6.0 Empty (Session) (Udleveret kode)\coreReqRes\coreReqRes\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\rebec\Documents\GitHub\3.Semester\[2023.08] ASP.NET Core 6.0 Empty (Session) (Udleveret kode)\coreReqRes\coreReqRes\bin\Debug\net6.0\appsettings.json
+C:\Users\rebec\Documents\GitHub\3.Semester\[2023.08] ASP.NET Core 6.0 Empty (Session) (Udleveret kode)\coreReqRes\coreReqRes\bin\Debug\net6.0\coreReqRes.staticwebassets.runtime.json
+C:\Users\rebec\Documents\GitHub\3.Semester\[2023.08] ASP.NET Core 6.0 Empty (Session) (Udleveret kode)\coreReqRes\coreReqRes\bin\Debug\net6.0\coreReqRes.exe
+C:\Users\rebec\Documents\GitHub\3.Semester\[2023.08] ASP.NET Core 6.0 Empty (Session) (Udleveret kode)\coreReqRes\coreReqRes\bin\Debug\net6.0\coreReqRes.deps.json
+C:\Users\rebec\Documents\GitHub\3.Semester\[2023.08] ASP.NET Core 6.0 Empty (Session) (Udleveret kode)\coreReqRes\coreReqRes\bin\Debug\net6.0\coreReqRes.runtimeconfig.json
+C:\Users\rebec\Documents\GitHub\3.Semester\[2023.08] ASP.NET Core 6.0 Empty (Session) (Udleveret kode)\coreReqRes\coreReqRes\bin\Debug\net6.0\coreReqRes.dll
+C:\Users\rebec\Documents\GitHub\3.Semester\[2023.08] ASP.NET Core 6.0 Empty (Session) (Udleveret kode)\coreReqRes\coreReqRes\bin\Debug\net6.0\coreReqRes.pdb
+C:\Users\rebec\Documents\GitHub\3.Semester\[2023.08] ASP.NET Core 6.0 Empty (Session) (Udleveret kode)\coreReqRes\coreReqRes\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\rebec\Documents\GitHub\3.Semester\[2023.08] ASP.NET Core 6.0 Empty (Session) (Udleveret kode)\coreReqRes\coreReqRes\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\rebec\Documents\GitHub\3.Semester\[2023.08] ASP.NET Core 6.0 Empty (Session) (Udleveret kode)\coreReqRes\coreReqRes\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\rebec\Documents\GitHub\3.Semester\[2023.08] ASP.NET Core 6.0 Empty (Session) (Udleveret kode)\coreReqRes\coreReqRes\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\rebec\Documents\GitHub\3.Semester\[2023.08] ASP.NET Core 6.0 Empty (Session) (Udleveret kode)\coreReqRes\coreReqRes\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\rebec\Documents\GitHub\3.Semester\[2023.08] ASP.NET Core 6.0 Empty (Session) (Udleveret kode)\coreReqRes\coreReqRes\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\rebec\Documents\GitHub\3.Semester\[2023.08] ASP.NET Core 6.0 Empty (Session) (Udleveret kode)\coreReqRes\coreReqRes\obj\Debug\net6.0\coreReqRes.csproj.AssemblyReference.cache
+C:\Users\rebec\Documents\GitHub\3.Semester\[2023.08] ASP.NET Core 6.0 Empty (Session) (Udleveret kode)\coreReqRes\coreReqRes\obj\Debug\net6.0\coreReqRes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rebec\Documents\GitHub\3.Semester\[2023.08] ASP.NET Core 6.0 Empty (Session) (Udleveret kode)\coreReqRes\coreReqRes\obj\Debug\net6.0\coreReqRes.AssemblyInfoInputs.cache
+C:\Users\rebec\Documents\GitHub\3.Semester\[2023.08] ASP.NET Core 6.0 Empty (Session) (Udleveret kode)\coreReqRes\coreReqRes\obj\Debug\net6.0\coreReqRes.AssemblyInfo.cs
+C:\Users\rebec\Documents\GitHub\3.Semester\[2023.08] ASP.NET Core 6.0 Empty (Session) (Udleveret kode)\coreReqRes\coreReqRes\obj\Debug\net6.0\coreReqRes.csproj.CoreCompileInputs.cache
+C:\Users\rebec\Documents\GitHub\3.Semester\[2023.08] ASP.NET Core 6.0 Empty (Session) (Udleveret kode)\coreReqRes\coreReqRes\obj\Debug\net6.0\coreReqRes.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\rebec\Documents\GitHub\3.Semester\[2023.08] ASP.NET Core 6.0 Empty (Session) (Udleveret kode)\coreReqRes\coreReqRes\obj\Debug\net6.0\staticwebassets\msbuild.coreReqRes.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\rebec\Documents\GitHub\3.Semester\[2023.08] ASP.NET Core 6.0 Empty (Session) (Udleveret kode)\coreReqRes\coreReqRes\obj\Debug\net6.0\staticwebassets\msbuild.build.coreReqRes.props
+C:\Users\rebec\Documents\GitHub\3.Semester\[2023.08] ASP.NET Core 6.0 Empty (Session) (Udleveret kode)\coreReqRes\coreReqRes\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.coreReqRes.props
+C:\Users\rebec\Documents\GitHub\3.Semester\[2023.08] ASP.NET Core 6.0 Empty (Session) (Udleveret kode)\coreReqRes\coreReqRes\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.coreReqRes.props
+C:\Users\rebec\Documents\GitHub\3.Semester\[2023.08] ASP.NET Core 6.0 Empty (Session) (Udleveret kode)\coreReqRes\coreReqRes\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\rebec\Documents\GitHub\3.Semester\[2023.08] ASP.NET Core 6.0 Empty (Session) (Udleveret kode)\coreReqRes\coreReqRes\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\rebec\Documents\GitHub\3.Semester\[2023.08] ASP.NET Core 6.0 Empty (Session) (Udleveret kode)\coreReqRes\coreReqRes\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\rebec\Documents\GitHub\3.Semester\[2023.08] ASP.NET Core 6.0 Empty (Session) (Udleveret kode)\coreReqRes\coreReqRes\obj\Debug\net6.0\scopedcss\bundle\coreReqRes.styles.css
+C:\Users\rebec\Documents\GitHub\3.Semester\[2023.08] ASP.NET Core 6.0 Empty (Session) (Udleveret kode)\coreReqRes\coreReqRes\obj\Debug\net6.0\coreReqRes.csproj.CopyComplete
+C:\Users\rebec\Documents\GitHub\3.Semester\[2023.08] ASP.NET Core 6.0 Empty (Session) (Udleveret kode)\coreReqRes\coreReqRes\obj\Debug\net6.0\coreReqRes.dll
+C:\Users\rebec\Documents\GitHub\3.Semester\[2023.08] ASP.NET Core 6.0 Empty (Session) (Udleveret kode)\coreReqRes\coreReqRes\obj\Debug\net6.0\refint\coreReqRes.dll
+C:\Users\rebec\Documents\GitHub\3.Semester\[2023.08] ASP.NET Core 6.0 Empty (Session) (Udleveret kode)\coreReqRes\coreReqRes\obj\Debug\net6.0\coreReqRes.pdb
+C:\Users\rebec\Documents\GitHub\3.Semester\[2023.08] ASP.NET Core 6.0 Empty (Session) (Udleveret kode)\coreReqRes\coreReqRes\obj\Debug\net6.0\coreReqRes.genruntimeconfig.cache
+C:\Users\rebec\Documents\GitHub\3.Semester\[2023.08] ASP.NET Core 6.0 Empty (Session) (Udleveret kode)\coreReqRes\coreReqRes\obj\Debug\net6.0\ref\coreReqRes.dll

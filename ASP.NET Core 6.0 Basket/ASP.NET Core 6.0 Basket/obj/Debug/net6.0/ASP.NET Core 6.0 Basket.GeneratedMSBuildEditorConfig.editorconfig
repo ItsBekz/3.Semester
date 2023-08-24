@@ -1,0 +1,33 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = ASP.NET_Core_6._0_Basket
+build_property.RootNamespace = ASP.NET_Core_6._0_Basket
+build_property.ProjectDir = C:\Users\rebec\Documents\GitHub\3.Semester\ASP.NET Core 6.0 Basket\ASP.NET Core 6.0 Basket\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\rebec\Documents\GitHub\3.Semester\ASP.NET Core 6.0 Basket\ASP.NET Core 6.0 Basket
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/rebec/Documents/GitHub/3.Semester/ASP.NET Core 6.0 Basket/ASP.NET Core 6.0 Basket/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/rebec/Documents/GitHub/3.Semester/ASP.NET Core 6.0 Basket/ASP.NET Core 6.0 Basket/Pages/Products.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvZHVjdHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/rebec/Documents/GitHub/3.Semester/ASP.NET Core 6.0 Basket/ASP.NET Core 6.0 Basket/Pages/Users/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVXNlcnNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/rebec/Documents/GitHub/3.Semester/ASP.NET Core 6.0 Basket/ASP.NET Core 6.0 Basket/Pages/Users/UserList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVXNlcnNcVXNlckxpc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 

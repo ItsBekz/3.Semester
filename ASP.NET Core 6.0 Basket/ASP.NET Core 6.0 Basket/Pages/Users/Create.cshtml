@@ -1,0 +1,44 @@
+﻿@page
+@model ASP.NET_Core_6._0_Basket.Pages.Users.CreateModel
+@{
+}
+
+<br />
+<h2>New User</h2>
+
+@if (Model.errorMessage.Length > 0)
+{
+    <div>
+        <strong>@Model.errorMessage</strong>
+        <button type='button'>Close</button>
+    </div>
+}
+
+<form method="POST">
+    <div>
+        <label for="username">Username</label>
+        <input type="text" name="username" value="@Model.userInfo.username"/>
+        
+    </div>
+    <div>
+        <label for="password">Password</label>
+        <input type="password" name="password" value="@Model.userInfo.password"/>
+    </div>
+    
+    @if (Model.successMessage.Length > 0)
+    {
+        <div>
+            <strong>@Model.successMessage</strong>
+            <button type='button'>Close</button>
+        </div>
+    }
+
+    <div>
+        <div>
+            <button type="submit">Create</button>
+        </div>
+        <div>
+            <button href="../Index">Back to Login</button>
+        </div>
+    </div>
+</form>

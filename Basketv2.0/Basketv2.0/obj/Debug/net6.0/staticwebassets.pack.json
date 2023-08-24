@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\rebec\\Documents\\GitHub\\3.Semester\\Basketv2.0\\Basketv2.0\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\rebec\\Documents\\GitHub\\3.Semester\\Basketv2.0\\Basketv2.0\\wwwroot\\products.html",
+      "PackagePath": "staticwebassets\\products.html"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Basketv2.0.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.Basketv2.0.props",
+      "PackagePath": "build\\Basketv2.0.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.Basketv2.0.props",
+      "PackagePath": "buildMultiTargeting\\Basketv2.0.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.Basketv2.0.props",
+      "PackagePath": "buildTransitive\\Basketv2.0.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

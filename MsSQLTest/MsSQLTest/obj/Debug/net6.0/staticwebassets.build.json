@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "Hash": "CGglvhS+tw6wXMvCmdUkWIVhNDvLRMKsb6KUX+QaQwY=",
+  "Source": "MsSQLTest",
+  "BasePath": "_content/MsSQLTest",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "MsSQLTest\\wwwroot",
+      "Source": "MsSQLTest",
+      "ContentRoot": "C:\\Users\\rebec\\Documents\\GitHub\\3.Semester\\MsSQLTest\\MsSQLTest\\wwwroot\\",
+      "BasePath": "_content/MsSQLTest",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\rebec\\Documents\\GitHub\\3.Semester\\MsSQLTest\\MsSQLTest\\wwwroot\\Login.html",
+      "SourceId": "MsSQLTest",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\rebec\\Documents\\GitHub\\3.Semester\\MsSQLTest\\MsSQLTest\\wwwroot\\",
+      "BasePath": "_content/MsSQLTest",
+      "RelativePath": "Login.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Login.html"
+    },
+    {
+      "Identity": "C:\\Users\\rebec\\Documents\\GitHub\\3.Semester\\MsSQLTest\\MsSQLTest\\wwwroot\\music.html",
+      "SourceId": "MsSQLTest",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\rebec\\Documents\\GitHub\\3.Semester\\MsSQLTest\\MsSQLTest\\wwwroot\\",
+      "BasePath": "_content/MsSQLTest",
+      "RelativePath": "music.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\music.html"
+    }
+  ]
+}

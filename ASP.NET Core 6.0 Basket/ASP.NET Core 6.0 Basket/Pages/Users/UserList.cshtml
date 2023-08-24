@@ -1,0 +1,26 @@
+﻿@page
+@model ASP.NET_Core_6._0_Basket.Pages.Users.UserListModel
+@{
+}
+
+<br />
+<h2>Users</h2>
+<table class="table">
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Username</th>
+            <th>Password</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var user in Model.listUsers)
+        {
+            <tr>
+                <td>@user.id</td>
+                <td>@user.username</td>
+                <td>@user.password</td>
+            </tr>
+        }
+    </tbody>
+</table>
