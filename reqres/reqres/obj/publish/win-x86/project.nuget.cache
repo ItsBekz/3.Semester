@@ -1,12 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "JMwD5nfYsdxIFnEICp6I31hnaxRlydfF6rXtkzPyaNJPQLZU9OixPZCqeo2nQmW95lBc4dyuCtec6sljZNZU+A==",
+  "dgSpecHash": "T1PUMjRvjir5ET+0NhYwZogKZ9aqK8CdodnPo+CPpE9kzlZ0dQHNubxfQwAYnfRMfPojUSPQ8K1Nd7xGbsYekw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\rebec\\Documents\\GitHub\\3.Semester\\reqres\\reqres\\reqres.csproj",
+  "projectFilePath": "C:\\Users\\Rebrcca\\Documents\\GitHub\\3.Semester\\reqres\\reqres\\reqres.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\rebec\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x86\\6.0.16\\microsoft.netcore.app.runtime.win-x86.6.0.16.nupkg.sha512",
-    "C:\\Users\\rebec\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x86\\6.0.16\\microsoft.windowsdesktop.app.runtime.win-x86.6.0.16.nupkg.sha512",
-    "C:\\Users\\rebec\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x86\\6.0.16\\microsoft.aspnetcore.app.runtime.win-x86.6.0.16.nupkg.sha512"
+    "C:\\Users\\Rebrcca\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x86\\6.0.9\\microsoft.netcore.app.runtime.win-x86.6.0.9.nupkg.sha512",
+    "C:\\Users\\Rebrcca\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x86\\6.0.9\\microsoft.windowsdesktop.app.runtime.win-x86.6.0.9.nupkg.sha512",
+    "C:\\Users\\Rebrcca\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x86\\6.0.9\\microsoft.aspnetcore.app.runtime.win-x86.6.0.9.nupkg.sha512"
   ],
   "logs": []
 }

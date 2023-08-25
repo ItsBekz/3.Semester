@@ -1,6 +1,7 @@
 ﻿using System.Security.Cryptography.X509Certificates;
 using System.Data.SqlClient;
 using System.Reflection.Metadata.Ecma335;
+using Basketv2._0.Models;
 
 namespace Basketv2._0
 {
@@ -20,7 +21,7 @@ namespace Basketv2._0
             }
         }
 
-        public string GetProducts()
+        public List<Product> GetProducts()
         {
             List<Product> listProducts = new List<Product>();
             SqlConnection connection = GetConnection();
@@ -58,23 +59,27 @@ namespace Basketv2._0
                 connection.Dispose();
             }
 
+            return listProducts;
+
+            //think about making a html template and then just add the products to the template
+            //instead of writing the whole html in the code
+            /*
             string html = "<html> <head> <title>Products</title> </head> <body> <h1>Products</h1> <br> <table> <tr> ";
             
             foreach (Product product in listProducts)
             {
-                html += "<th style=\"width:100px;\"> <div> <img src=\"../images/" + product.img + "\" width=\"100px\" />" +
+                html += "<th style=\"width:100px;\"> <div> <img src=\"wwwroot/images/" + product.img + "\" width=\"100px\" />" +
                     "<label>" + product.name + "</label>" +
                     "<button id=\"Btn" + product.name + "\">Buy</button> </div> </th> ";
             }
             html += "</tr> </table> </body> </html>";
-            return html;
+            return html; */
         }
 
-        public bool CheckUser(string username, string password)
+        public List<User> GetUsers()
         {
-            bool check = false;
-            SqlConnection connection = GetConnection();
             List<User> userList = new List<User>();
+            SqlConnection connection = GetConnection();
             try
             {
                 using (connection)
@@ -96,19 +101,52 @@ namespace Basketv2._0
                         }
                     }
                 }
-
-                check = userList.Any(x => x.username == username);
-
-            } catch(Exception e)
+            }
+            catch (Exception e)
             {
                 Console.WriteLine(e);
             }
+            finally
+            {
+                connection.Dispose();
+            }
+            return userList;
+        }
+
+        public void BuyProduct(User user, Product product)
+        {
+            SqlConnection connection = GetConnection();
+            try
+            {
+                using (connection)
+                {
+                    connection.Open();
+                    string query = "INSERT INTO Basket (ProductID, UserID) VALUES (@productId, @userId);";
+                    using (SqlCommand command = new SqlCommand(query, connection))
+                    {
+                        command.Parameters.AddWithValue("@productId", product.id);
+                        command.Parameters.AddWithValue("@userId", user.id);
+                    }
+                }
+            }
+            catch (Exception e)
+            {
+                Console.WriteLine(e);
+            }
+            finally
+            {
+                connection.Dispose();
+            }
+        }
+
+        public bool CheckUser(string username, string password)
+        {
+            bool check = false;
+            List<User> userList = GetUsers();
+
+            check = userList.Any(x => x.username == username);
 
             return check;
         }
-
-        public static 
-
-
     }
 }
