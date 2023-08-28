@@ -1,0 +1,84 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Razor3
+build_property.RootNamespace = Razor3
+build_property.ProjectDir = C:\Users\Rebrcca\Documents\GitHub\3.Semester\Razor3\Razor3\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\Rebrcca\Documents\GitHub\3.Semester\Razor3\Razor3
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/Rebrcca/Documents/GitHub/3.Semester/Razor3/Razor3/Pages/DBAccessor/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcREJBY2Nlc3NvclxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Rebrcca/Documents/GitHub/3.Semester/Razor3/Razor3/Pages/DBAccessor/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcREJBY2Nlc3NvclxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Rebrcca/Documents/GitHub/3.Semester/Razor3/Razor3/Pages/DBAccessor/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcREJBY2Nlc3NvclxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Rebrcca/Documents/GitHub/3.Semester/Razor3/Razor3/Pages/DBAccessor/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcREJBY2Nlc3NvclxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Rebrcca/Documents/GitHub/3.Semester/Razor3/Razor3/Pages/DBAccessor/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcREJBY2Nlc3NvclxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Rebrcca/Documents/GitHub/3.Semester/Razor3/Razor3/Pages/DBProduct/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcREJQcm9kdWN0XENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Rebrcca/Documents/GitHub/3.Semester/Razor3/Razor3/Pages/DBProduct/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcREJQcm9kdWN0XERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Rebrcca/Documents/GitHub/3.Semester/Razor3/Razor3/Pages/DBProduct/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcREJQcm9kdWN0XERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Rebrcca/Documents/GitHub/3.Semester/Razor3/Razor3/Pages/DBProduct/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcREJQcm9kdWN0XEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Rebrcca/Documents/GitHub/3.Semester/Razor3/Razor3/Pages/DBProduct/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcREJQcm9kdWN0XEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Rebrcca/Documents/GitHub/3.Semester/Razor3/Razor3/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Rebrcca/Documents/GitHub/3.Semester/Razor3/Razor3/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Rebrcca/Documents/GitHub/3.Semester/Razor3/Razor3/Pages/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Rebrcca/Documents/GitHub/3.Semester/Razor3/Razor3/Pages/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Rebrcca/Documents/GitHub/3.Semester/Razor3/Razor3/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Rebrcca/Documents/GitHub/3.Semester/Razor3/Razor3/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Rebrcca/Documents/GitHub/3.Semester/Razor3/Razor3/Pages/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-g9pvxcquhx

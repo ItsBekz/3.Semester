@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "O0x3tA6KDG6re8bnaf7daWVkgmJIdGEzSYgQXqQERYwtG1qSi7QEOsSr+tleATDcaVVG4ssb7SjSU/OCPPGD4w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Rebrcca\\Documents\\GitHub\\3.Semester\\Razor1\\Razor1\\Razor1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Rebrcca\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x86\\6.0.9\\microsoft.netcore.app.runtime.win-x86.6.0.9.nupkg.sha512",
+    "C:\\Users\\Rebrcca\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x86\\6.0.9\\microsoft.windowsdesktop.app.runtime.win-x86.6.0.9.nupkg.sha512",
+    "C:\\Users\\Rebrcca\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x86\\6.0.9\\microsoft.aspnetcore.app.runtime.win-x86.6.0.9.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,32 @@
+﻿@page
+@model Razor1.Pages.CatModel
+@using Razor1.Models
+@{
+}
+
+<h1>Cats</h1>
+
+
+<form method="post">
+    <label for="fname">id:</label><br>
+    <input type="number" name="id" value=""><br>
+    <label for="lname">Name:</label><br>
+    <input type="text" name="name" value=""><br><br>
+    <input type="submit" value="Submit">
+</form>
+
+<table class="table" style="width:300px">
+    <tr>
+        <th>Id</th>
+        <th>Name</th>
+    </tr>
+    @foreach (Cat cat in CatModel.cats)
+    {
+        <tr>
+            <td>@cat.id</td>
+            <td>@cat.name</td>
+        </tr>
+    }
+</table>
+
+
