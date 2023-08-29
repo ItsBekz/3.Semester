@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "+zcUlQbCD/1/XAHz5zjjLRzVafuLYULb//Dk9QLIkTVeDSteDUV9YSPi+tza1eUH7JinWJzVKCZpUBbHWH1C1Q==",
+  "dgSpecHash": "ZsxsYcLttHs7npndGIPQFx7K8XvxKGuuynuv+TxDP0SiDMjluD8pvURUWrHXDOXSGDtIVGut9/j8/hE9hB/ysg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Rebrcca\\Documents\\GitHub\\3.Semester\\reqres\\reqres\\reqres.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\rebec\\Documents\\GitHub\\3.Semester\\reqres\\reqres\\reqres.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rebec\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.21\\microsoft.windowsdesktop.app.ref.6.0.21.nupkg.sha512",
+    "C:\\Users\\rebec\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.21\\microsoft.netcore.app.ref.6.0.21.nupkg.sha512",
+    "C:\\Users\\rebec\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.21\\microsoft.aspnetcore.app.ref.6.0.21.nupkg.sha512",
+    "C:\\Users\\rebec\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.21\\microsoft.netcore.app.host.win-x64.6.0.21.nupkg.sha512"
+  ],
   "logs": []
 }

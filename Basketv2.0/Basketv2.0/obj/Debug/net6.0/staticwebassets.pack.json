@@ -1,12 +1,32 @@
 {
   "Files": [
     {
+      "Id": "C:\\Users\\rebec\\Documents\\GitHub\\3.Semester\\Basketv2.0\\Basketv2.0\\wwwroot\\StyleSheet.css",
+      "PackagePath": "staticwebassets\\StyleSheet.css"
+    },
+    {
+      "Id": "C:\\Users\\rebec\\Documents\\GitHub\\3.Semester\\Basketv2.0\\Basketv2.0\\wwwroot\\images\\apple.jpg",
+      "PackagePath": "staticwebassets\\images\\apple.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rebec\\Documents\\GitHub\\3.Semester\\Basketv2.0\\Basketv2.0\\wwwroot\\images\\pear.jpg",
+      "PackagePath": "staticwebassets\\images\\pear.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rebec\\Documents\\GitHub\\3.Semester\\Basketv2.0\\Basketv2.0\\wwwroot\\images\\plum.jpg",
+      "PackagePath": "staticwebassets\\images\\plum.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rebec\\Documents\\GitHub\\3.Semester\\Basketv2.0\\Basketv2.0\\wwwroot\\images\\strawberry.jpg",
+      "PackagePath": "staticwebassets\\images\\strawberry.jpg"
+    },
+    {
       "Id": "C:\\Users\\rebec\\Documents\\GitHub\\3.Semester\\Basketv2.0\\Basketv2.0\\wwwroot\\index.html",
       "PackagePath": "staticwebassets\\index.html"
     },
     {
-      "Id": "C:\\Users\\rebec\\Documents\\GitHub\\3.Semester\\Basketv2.0\\Basketv2.0\\wwwroot\\products.html",
-      "PackagePath": "staticwebassets\\products.html"
+      "Id": "C:\\Users\\rebec\\Documents\\GitHub\\3.Semester\\Basketv2.0\\Basketv2.0\\wwwroot\\register.html",
+      "PackagePath": "staticwebassets\\register.html"
     },
     {
       "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Basketv2.0.Microsoft.AspNetCore.StaticWebAssets.props",

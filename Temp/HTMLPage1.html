@@ -1,30 +1,47 @@
 ﻿<!DOCTYPE html>
 
-<html lang="en">
+<html>
 <head>
-    <meta charset="utf-8" />
-    <title>Layout</title>
+    <title>Basket</title>
 </head>
 <body>
+    <h2>Basket</h2>
+    <br>
+    <p>UserID = (userID)</p>
+    <p>-------------------------------</p>
+    <p>These are the items in your basket</p>
+    /*make foreach loop show all the products the user has bought. make a dbcall for the user*/
     <table>
         <tr>
-            <th style="width:100px;">
-                <div>
-                    <img src="https://www.w3schools.com/images/w3schools_green.jpg " alt="Logo" widht="100px" />
-                    <label>name</label>
-                    <p>price</p>
-                    <button name="btn">Button</button>
-                </div>
-            </th>
-            <th style="width:100px;">
-                <div>
-                    <img src="https://www.w3schools.com/images/w3schools_green.jpg " alt="Logo" widht="100px" />
-                    <label>name</label>
-                    <p>price</p>
-                    <button name="btn">Button</button>
-                </div>
-            </th>
+            <th style="width:150px;">Product</th>
+            <th style="width:100px;">Price</th>
+        </tr>
+        <tr>
+            <td>
+                <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.ikea.com%2Fgb%2Fen%2Fp%2Fkallax-shelving-unit-white-80275887%2F&psig=AOvVaw0QZ6Z4Z2Z3Z2Z2Z2Z2Z2Z2&ust=1607016546546000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJjQ4ZqHlu0CFQAAAAAdAAAAABAD" alt="kallax" width="500" height="600" style="align-content:center;">
+            </td>
+            <td align="center">product name</td>
+            <td align="center">213</td>
         </tr>
     </table>
+
+    <br />
+    <form>
+        <table>
+            <tr>
+                <td align="center" style="padding:2px 10px">
+                    <img src="https://i.guim.co.uk/img/media/26392d05302e02f7bf4eb143bb84c8097d09144b/446_167_3683_2210/master/3683.jpg?width=1200&quality=85&auto=format&fit=max&s=a52bbe202f57ac0f5ff7f47166906403" width="100px"/>
+                    <br>
+                    <label>name</label>
+                </td>
+                <td align="center">
+                    <img src="https://i.guim.co.uk/img/media/26392d05302e02f7bf4eb143bb84c8097d09144b/446_167_3683_2210/master/3683.jpg?width=1200&quality=85&auto=format&fit=max&s=a52bbe202f57ac0f5ff7f47166906403" width="100px"/>
+                    <br>
+                    <label>name</label>
+                </td>
+            </tr>
+        </table>
+    </form>
+    
 </body>
 </html>

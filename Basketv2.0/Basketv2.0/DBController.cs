@@ -13,8 +13,10 @@ namespace Basketv2._0
             {
                 string connStr = "Data Source=mssql13.unoeuro.com;Initial Catalog=lightsandbox_dk_db_mssql;Persist Security Info=True;User ID=lightsandbox_dk;Password=yAzp3ndRxegcDrHkhafm";
                 SqlConnection connection = new SqlConnection(connStr);
+                Console.WriteLine("Succesfully established the SqlConnection");
                 return connection;
-            } catch(Exception e)
+            } 
+            catch(Exception e)
             {
                 Console.WriteLine(e);
                 throw;
@@ -49,6 +51,7 @@ namespace Basketv2._0
                         }
                     }
                 }
+                Console.WriteLine("Succesfully gathered a list of the products in the database");
             }
             catch (Exception ex)
             {
@@ -60,20 +63,6 @@ namespace Basketv2._0
             }
 
             return listProducts;
-
-            //think about making a html template and then just add the products to the template
-            //instead of writing the whole html in the code
-            /*
-            string html = "<html> <head> <title>Products</title> </head> <body> <h1>Products</h1> <br> <table> <tr> ";
-            
-            foreach (Product product in listProducts)
-            {
-                html += "<th style=\"width:100px;\"> <div> <img src=\"wwwroot/images/" + product.img + "\" width=\"100px\" />" +
-                    "<label>" + product.name + "</label>" +
-                    "<button id=\"Btn" + product.name + "\">Buy</button> </div> </th> ";
-            }
-            html += "</tr> </table> </body> </html>";
-            return html; */
         }
 
         public List<User> GetUsers()
@@ -101,6 +90,7 @@ namespace Basketv2._0
                         }
                     }
                 }
+                Console.WriteLine("Succesfully gathered a list of the Users in the database");
             }
             catch (Exception e)
             {
@@ -113,6 +103,46 @@ namespace Basketv2._0
             return userList;
         }
 
+        public List<Basket> UsersBasket(User user)
+        {
+            List<Basket> userBasket = new List<Basket>();
+            SqlConnection connection = GetConnection();
+            try
+            {
+                using (connection) 
+                {
+                    connection.Open();
+                    string query = "SELECT u.ID, b.* FROM Users u INNER JOIN Basket b ON u.ID = b.UserID WHERE u.ID = @id;";
+                    using (SqlCommand command = new SqlCommand(query, connection))
+                    {
+                        command.Parameters.AddWithValue("@id", user.id);
+                        command.ExecuteNonQuery();
+                        using (SqlDataReader reader = command.ExecuteReader())
+                        {
+                            while (reader.Read())
+                            {
+                                Basket basket = new Basket();
+                                basket.id = reader.GetInt32(1);
+                                basket.productId = reader.GetInt32(2);
+                                basket.userId = reader.GetInt32(3);
+                                userBasket.Add(basket);
+                            }
+                        }
+                    }
+                }
+                Console.WriteLine("Succesfully found the users basket");
+            } 
+            catch(Exception e)
+            {
+                Console.WriteLine(e);
+            }
+            finally
+            {
+                connection.Dispose();
+            }
+            return userBasket;
+        }
+        
         public void BuyProduct(User user, Product product)
         {
             SqlConnection connection = GetConnection();
@@ -126,8 +156,38 @@ namespace Basketv2._0
                     {
                         command.Parameters.AddWithValue("@productId", product.id);
                         command.Parameters.AddWithValue("@userId", user.id);
+                        command.ExecuteNonQuery();
                     }
                 }
+                Console.WriteLine("Succesfully added something to users basket");
+            }
+            catch (Exception e)
+            {
+                Console.WriteLine(e);
+            }
+            finally
+            {
+                connection.Dispose();
+            }
+        }
+        
+        public void AddNewUser(string username, string password)
+        {
+            SqlConnection connection = GetConnection();
+            try
+            {
+                using (connection)
+                {
+                    connection.Open();
+                    string query = "INSERT INTO Users (Username, Password) VALUES (@username, @password);";
+                    using (SqlCommand command = new SqlCommand(query, connection))
+                    {
+                        command.Parameters.AddWithValue("@username", username);
+                        command.Parameters.AddWithValue("@password", password);
+                        command.ExecuteNonQuery();
+                    }
+                }
+                Console.WriteLine("Succesfully added a new user");
             }
             catch (Exception e)
             {
