@@ -1,14 +1,28 @@
 ﻿using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using HouseAndWindows.Models;
 
 namespace HouseAndWindows.Controllers
 {
     public class HouseController : Controller
     {
+        public House currentHouse { get; set; }
         // GET: HouseController
+        public House GetHouse()
+        {
+            if (currentHouse == null)
+            {
+                currentHouse = new House();
+                currentHouse.name = "House 1";
+                currentHouse.listWindows = new List<Window>();
+            }
+            return currentHouse;
+        }
+
         public ActionResult Index()
         {
-            return View();
+            GetHouse();
+            return View(currentHouse);
         }
 
         // GET: HouseController/Details/5
