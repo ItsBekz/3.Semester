@@ -1,0 +1,31 @@
+C:\Users\rebec\Documents\GitHub\3.Semester\House and Windows\House and Windows\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\rebec\Documents\GitHub\3.Semester\House and Windows\House and Windows\bin\Debug\net6.0\appsettings.json
+C:\Users\rebec\Documents\GitHub\3.Semester\House and Windows\House and Windows\bin\Debug\net6.0\House and Windows.staticwebassets.runtime.json
+C:\Users\rebec\Documents\GitHub\3.Semester\House and Windows\House and Windows\bin\Debug\net6.0\House and Windows.exe
+C:\Users\rebec\Documents\GitHub\3.Semester\House and Windows\House and Windows\bin\Debug\net6.0\House and Windows.deps.json
+C:\Users\rebec\Documents\GitHub\3.Semester\House and Windows\House and Windows\bin\Debug\net6.0\House and Windows.runtimeconfig.json
+C:\Users\rebec\Documents\GitHub\3.Semester\House and Windows\House and Windows\bin\Debug\net6.0\House and Windows.dll
+C:\Users\rebec\Documents\GitHub\3.Semester\House and Windows\House and Windows\bin\Debug\net6.0\House and Windows.pdb
+C:\Users\rebec\Documents\GitHub\3.Semester\House and Windows\House and Windows\obj\Debug\net6.0\House and Windows.csproj.AssemblyReference.cache
+C:\Users\rebec\Documents\GitHub\3.Semester\House and Windows\House and Windows\obj\Debug\net6.0\House and Windows.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rebec\Documents\GitHub\3.Semester\House and Windows\House and Windows\obj\Debug\net6.0\House and Windows.AssemblyInfoInputs.cache
+C:\Users\rebec\Documents\GitHub\3.Semester\House and Windows\House and Windows\obj\Debug\net6.0\House and Windows.AssemblyInfo.cs
+C:\Users\rebec\Documents\GitHub\3.Semester\House and Windows\House and Windows\obj\Debug\net6.0\House and Windows.csproj.CoreCompileInputs.cache
+C:\Users\rebec\Documents\GitHub\3.Semester\House and Windows\House and Windows\obj\Debug\net6.0\House and Windows.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\rebec\Documents\GitHub\3.Semester\House and Windows\House and Windows\obj\Debug\net6.0\House and Windows.RazorAssemblyInfo.cache
+C:\Users\rebec\Documents\GitHub\3.Semester\House and Windows\House and Windows\obj\Debug\net6.0\House and Windows.RazorAssemblyInfo.cs
+C:\Users\rebec\Documents\GitHub\3.Semester\House and Windows\House and Windows\obj\Debug\net6.0\staticwebassets\msbuild.House and Windows.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\rebec\Documents\GitHub\3.Semester\House and Windows\House and Windows\obj\Debug\net6.0\staticwebassets\msbuild.build.House and Windows.props
+C:\Users\rebec\Documents\GitHub\3.Semester\House and Windows\House and Windows\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.House and Windows.props
+C:\Users\rebec\Documents\GitHub\3.Semester\House and Windows\House and Windows\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.House and Windows.props
+C:\Users\rebec\Documents\GitHub\3.Semester\House and Windows\House and Windows\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\rebec\Documents\GitHub\3.Semester\House and Windows\House and Windows\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\rebec\Documents\GitHub\3.Semester\House and Windows\House and Windows\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\rebec\Documents\GitHub\3.Semester\House and Windows\House and Windows\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\rebec\Documents\GitHub\3.Semester\House and Windows\House and Windows\obj\Debug\net6.0\scopedcss\bundle\House and Windows.styles.css
+C:\Users\rebec\Documents\GitHub\3.Semester\House and Windows\House and Windows\obj\Debug\net6.0\scopedcss\projectbundle\House and Windows.bundle.scp.css
+C:\Users\rebec\Documents\GitHub\3.Semester\House and Windows\House and Windows\obj\Debug\net6.0\House and Windows.dll
+C:\Users\rebec\Documents\GitHub\3.Semester\House and Windows\House and Windows\obj\Debug\net6.0\refint\House and Windows.dll
+C:\Users\rebec\Documents\GitHub\3.Semester\House and Windows\House and Windows\obj\Debug\net6.0\House and Windows.pdb
+C:\Users\rebec\Documents\GitHub\3.Semester\House and Windows\House and Windows\obj\Debug\net6.0\House and Windows.genruntimeconfig.cache
+C:\Users\rebec\Documents\GitHub\3.Semester\House and Windows\House and Windows\obj\Debug\net6.0\ref\House and Windows.dll
