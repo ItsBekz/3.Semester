@@ -1,0 +1,39 @@
+﻿@page
+@model RazorManyToMany.Pages.AuthorBookModel
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<div class="col-md-4">
+    <form method="post">
+        <div class="form-group">
+            <div>
+                <label name="author" class="control-label">Author</label>
+                <select name="authors" class="form-select">
+                    @foreach (Author author in Model.Authors)
+                    {
+                        <option value="@author.id">
+                            @Html.DisplayFor(modelItem => author.name)
+                        </option>
+                    }
+                </select>
+            </div>   
+            <div>
+                <label name="book" class="control-label">Book</label>
+                <select name="books" class="form-select">
+                    @foreach (Book book in Model.Books)
+                    {
+                        <option value="@book.id">
+                            @Html.DisplayFor(modelItem => book.name)
+                        </option>
+                    }
+                </select>
+            </div>     
+        </div>
+        <div class="form-group">
+            <input type="submit" value="Save" class="btn btn-primary" />
+        </div>
+    </form>
+</div>
