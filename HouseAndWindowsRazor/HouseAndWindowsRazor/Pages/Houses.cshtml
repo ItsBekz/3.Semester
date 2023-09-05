@@ -1,0 +1,49 @@
+﻿@page
+@model HouseAndWindowsRazor.Pages.HousesModel
+@{
+}
+
+<h1>Houses</h1>
+
+<p>
+    <a href="HouseCreate"">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                <p>name</p>
+            </th>
+            <th></th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in HousesModel.listHouses)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.name)
+                </td>
+                <td>
+                    @if (item.Windows.Count < 1)
+                    {
+                        @foreach (Window w in item.Windows)
+                        {
+                            @w.name
+                        }
+                    }
+                    else
+                    {
+                        <p>no windows</p>
+                    }
+                </td>
+                <td>
+                    <a href="HouseEdit">Edit</a> |
+                    <a asp-action="Details" asp-route-id="@item.name">Details</a> |
+                    <a asp-action="Delete" asp-route-id="@item.name">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

@@ -1,0 +1,21 @@
+﻿@page
+@model HouseAndWindowsRazor.Pages.EditModel
+@{
+}
+
+<h1 >Edit</h1>
+
+<h4>House</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form method="post">
+            <div class="form-group">
+                <label asp-for="House.name" class="control-label"></label>
+                <input asp-for="House.name" class="form-control" />
+                <span asp-validation-for="House.name" class="text-danger"></span>
+            </div>
+        </form>
+    </div>
+</div>
+

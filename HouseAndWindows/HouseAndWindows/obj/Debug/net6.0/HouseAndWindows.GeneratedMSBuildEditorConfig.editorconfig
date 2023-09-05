@@ -1,0 +1,85 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = HouseAndWindows
+build_property.RootNamespace = HouseAndWindows
+build_property.ProjectDir = C:\Users\rebec\Documents\GitHub\3.Semester\HouseAndWindows\HouseAndWindows\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\rebec\Documents\GitHub\3.Semester\HouseAndWindows\HouseAndWindows
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/rebec/Documents/GitHub/3.Semester/HouseAndWindows/HouseAndWindows/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/rebec/Documents/GitHub/3.Semester/HouseAndWindows/HouseAndWindows/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/rebec/Documents/GitHub/3.Semester/HouseAndWindows/HouseAndWindows/Views/Houses/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG91c2VzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/rebec/Documents/GitHub/3.Semester/HouseAndWindows/HouseAndWindows/Views/Houses/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG91c2VzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/rebec/Documents/GitHub/3.Semester/HouseAndWindows/HouseAndWindows/Views/Houses/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG91c2VzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/rebec/Documents/GitHub/3.Semester/HouseAndWindows/HouseAndWindows/Views/Houses/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG91c2VzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/rebec/Documents/GitHub/3.Semester/HouseAndWindows/HouseAndWindows/Views/Houses/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG91c2VzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/rebec/Documents/GitHub/3.Semester/HouseAndWindows/HouseAndWindows/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/rebec/Documents/GitHub/3.Semester/HouseAndWindows/HouseAndWindows/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/rebec/Documents/GitHub/3.Semester/HouseAndWindows/HouseAndWindows/Views/Windows/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV2luZG93c1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/rebec/Documents/GitHub/3.Semester/HouseAndWindows/HouseAndWindows/Views/Windows/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV2luZG93c1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/rebec/Documents/GitHub/3.Semester/HouseAndWindows/HouseAndWindows/Views/Windows/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV2luZG93c1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/rebec/Documents/GitHub/3.Semester/HouseAndWindows/HouseAndWindows/Views/Windows/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV2luZG93c1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/rebec/Documents/GitHub/3.Semester/HouseAndWindows/HouseAndWindows/Views/Windows/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV2luZG93c1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/rebec/Documents/GitHub/3.Semester/HouseAndWindows/HouseAndWindows/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/rebec/Documents/GitHub/3.Semester/HouseAndWindows/HouseAndWindows/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/rebec/Documents/GitHub/3.Semester/HouseAndWindows/HouseAndWindows/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-7u424dcdup

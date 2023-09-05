@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "f4fQPxP6QKw0UGz4ZPOSLP++8uv8UpJI+KxhnRexlYgy3AibfVwAtaYn1Knbts5g7m646J8S/j6k4NrbVFLHOg==",
+  "dgSpecHash": "WefsBevLg7JljC7c9pEiV2lDox7YHzMyf5ebQh9KMdba2ml5Ym9GVK61oPpobd+iqIYPmlAtKsNAYDnTfxaX0A==",
   "success": true,
   "projectFilePath": "C:\\Users\\rebec\\Documents\\GitHub\\3.Semester\\ASP.NET Core 6.0 Basket\\ASP.NET Core 6.0 Basket\\ASP.NET Core 6.0 Basket.csproj",
   "expectedPackageFiles": [
@@ -12,11 +12,7 @@
     "C:\\Users\\rebec\\.nuget\\packages\\runtime.win-x86.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-x86.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
     "C:\\Users\\rebec\\.nuget\\packages\\system.data.sqlclient\\4.8.5\\system.data.sqlclient.4.8.5.nupkg.sha512",
     "C:\\Users\\rebec\\.nuget\\packages\\system.security.accesscontrol\\4.7.0\\system.security.accesscontrol.4.7.0.nupkg.sha512",
-    "C:\\Users\\rebec\\.nuget\\packages\\system.security.principal.windows\\4.7.0\\system.security.principal.windows.4.7.0.nupkg.sha512",
-    "C:\\Users\\rebec\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.21\\microsoft.windowsdesktop.app.ref.6.0.21.nupkg.sha512",
-    "C:\\Users\\rebec\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.21\\microsoft.netcore.app.ref.6.0.21.nupkg.sha512",
-    "C:\\Users\\rebec\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.21\\microsoft.aspnetcore.app.ref.6.0.21.nupkg.sha512",
-    "C:\\Users\\rebec\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.21\\microsoft.netcore.app.host.win-x64.6.0.21.nupkg.sha512"
+    "C:\\Users\\rebec\\.nuget\\packages\\system.security.principal.windows\\4.7.0\\system.security.principal.windows.4.7.0.nupkg.sha512"
   ],
   "logs": []
 }
