@@ -1,0 +1,25 @@
+﻿@page "{id:int?}"
+@model BankAccount.Pages.AccountModel
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+@{
+}
+@if(Model.myBank == null)
+{
+    <h1 style="color: red;">Choose a Bank!</h1>
+} else if(Model.myBank != null)
+{
+    <h1 name="bankName">@Model.myBank.name</h1>
+    <br />
+    <div>
+        <form asp-action="Create">
+            <input type="hidden" name="bankId" value="@Model.myBank.id" />
+            <label for="accountOwner">Account Name</label>
+            <input type="text" name="accountOwner" />
+            <br />
+            <label for="balance">balance</label>
+            <input type="number" name="balance" />
+            <button type="submit" asp-page="Bank">Create</button>
+        </form>
+    </div>
+}
+

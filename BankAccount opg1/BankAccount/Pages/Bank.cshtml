@@ -1,0 +1,29 @@
+﻿@page
+@model BankAccount.Pages.BankModel
+@{
+}
+
+<style>
+table {
+        border-collapse: collapse;
+        width: 50%;
+    }
+
+    table, th, td {
+        border: 1px solid black;
+    }
+</style>
+
+<h1>Bank</h1>
+
+<table>
+    <tr>
+        <th>Bank Name</th>
+    </tr>
+    @foreach (var bank in BankModel.bankList)
+    {
+        <tr>
+            <td>@bank.name</td>
+        </tr>
+    }
+</table>

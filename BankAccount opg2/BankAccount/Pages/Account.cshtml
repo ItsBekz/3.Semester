@@ -1,0 +1,13 @@
+﻿@page "{id:int?}"
+@model BankAccount.Pages.AccountModel
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+@{
+}
+@if(Model.myBank == null)
+{
+    <h1 style="color: red;">Choose a Bank!</h1>
+} else if(Model.myBank != null)
+{
+    <h1 name="bankName">@Model.myBank.name</h1>
+}
+

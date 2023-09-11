@@ -1,0 +1,41 @@
+﻿@page
+@model BankAccount.Pages.BankModel
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+@{
+}
+
+<style>
+table {
+        border-collapse: collapse;
+        width: 50%;
+    }
+
+    table, th, td {
+        border: 1px solid black;
+    }
+</style>
+
+<h1>Bank</h1>
+
+<table>
+    <tr>
+        <th>Bank Name</th>
+    </tr>
+    @foreach (var bank in BankModel.bankList)
+    {
+        <tr>
+            <td>
+                <a asp-page="Account" asp-page-handler="Account" asp-route-id="@bank.id">@bank.name</a>
+                @if(bank.accountList != null)
+                {
+                    <ul>
+                        @foreach (var account in bank.accountList)
+                        {
+                            <li>@account.owner</li>
+                        }
+                    </ul>
+                }
+            </td>
+        </tr>
+    }
+</table>
