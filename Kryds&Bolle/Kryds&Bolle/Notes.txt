@@ -1,0 +1,15 @@
+﻿Tic-Tac-Toe
+
+[YES] Identify the players
+
+[YES] Make a game
+
+[] When a player makes a move, change turn over to other player
+
+[] Make a function that prints out the board 
+
+[] Make a function that takes in a player input and assign their marker as 'X' or 'O'
+
+[] Make it so we don't have to refresh the page to see the other players input
+
+[] Check if someone has won a game

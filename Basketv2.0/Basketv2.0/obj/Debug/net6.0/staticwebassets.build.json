@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "iNVJq3J5VQgQmR+zENhVcTZHrAOY/XjX0USkd+oppR8=",
+  "Hash": "moUoHHc98gcP5zbnt0FX07/+VvcmeEhkfdolmrQylBI=",
   "Source": "Basketv2.0",
   "BasePath": "_content/Basketv2.0",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "Basketv2.0\\wwwroot",
       "Source": "Basketv2.0",
-      "ContentRoot": "C:\\Users\\Rebrcca\\Documents\\GitHub\\3.Semester\\Basketv2.0\\Basketv2.0\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\rebec\\Documents\\GitHub\\3.Semester\\Basketv2.0\\Basketv2.0\\wwwroot\\",
       "BasePath": "_content/Basketv2.0",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\Rebrcca\\Documents\\GitHub\\3.Semester\\Basketv2.0\\Basketv2.0\\wwwroot\\images\\apple.jpg",
+      "Identity": "C:\\Users\\rebec\\Documents\\GitHub\\3.Semester\\Basketv2.0\\Basketv2.0\\wwwroot\\images\\apple.jpg",
       "SourceId": "Basketv2.0",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Rebrcca\\Documents\\GitHub\\3.Semester\\Basketv2.0\\Basketv2.0\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\rebec\\Documents\\GitHub\\3.Semester\\Basketv2.0\\Basketv2.0\\wwwroot\\",
       "BasePath": "_content/Basketv2.0",
       "RelativePath": "images/apple.jpg",
       "AssetKind": "All",
@@ -34,10 +34,10 @@
       "OriginalItemSpec": "wwwroot\\images\\apple.jpg"
     },
     {
-      "Identity": "C:\\Users\\Rebrcca\\Documents\\GitHub\\3.Semester\\Basketv2.0\\Basketv2.0\\wwwroot\\images\\pear.jpg",
+      "Identity": "C:\\Users\\rebec\\Documents\\GitHub\\3.Semester\\Basketv2.0\\Basketv2.0\\wwwroot\\images\\pear.jpg",
       "SourceId": "Basketv2.0",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Rebrcca\\Documents\\GitHub\\3.Semester\\Basketv2.0\\Basketv2.0\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\rebec\\Documents\\GitHub\\3.Semester\\Basketv2.0\\Basketv2.0\\wwwroot\\",
       "BasePath": "_content/Basketv2.0",
       "RelativePath": "images/pear.jpg",
       "AssetKind": "All",
@@ -51,10 +51,10 @@
       "OriginalItemSpec": "wwwroot\\images\\pear.jpg"
     },
     {
-      "Identity": "C:\\Users\\Rebrcca\\Documents\\GitHub\\3.Semester\\Basketv2.0\\Basketv2.0\\wwwroot\\images\\plum.jpg",
+      "Identity": "C:\\Users\\rebec\\Documents\\GitHub\\3.Semester\\Basketv2.0\\Basketv2.0\\wwwroot\\images\\plum.jpg",
       "SourceId": "Basketv2.0",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Rebrcca\\Documents\\GitHub\\3.Semester\\Basketv2.0\\Basketv2.0\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\rebec\\Documents\\GitHub\\3.Semester\\Basketv2.0\\Basketv2.0\\wwwroot\\",
       "BasePath": "_content/Basketv2.0",
       "RelativePath": "images/plum.jpg",
       "AssetKind": "All",
@@ -68,10 +68,10 @@
       "OriginalItemSpec": "wwwroot\\images\\plum.jpg"
     },
     {
-      "Identity": "C:\\Users\\Rebrcca\\Documents\\GitHub\\3.Semester\\Basketv2.0\\Basketv2.0\\wwwroot\\images\\strawberry.jpg",
+      "Identity": "C:\\Users\\rebec\\Documents\\GitHub\\3.Semester\\Basketv2.0\\Basketv2.0\\wwwroot\\images\\strawberry.jpg",
       "SourceId": "Basketv2.0",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Rebrcca\\Documents\\GitHub\\3.Semester\\Basketv2.0\\Basketv2.0\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\rebec\\Documents\\GitHub\\3.Semester\\Basketv2.0\\Basketv2.0\\wwwroot\\",
       "BasePath": "_content/Basketv2.0",
       "RelativePath": "images/strawberry.jpg",
       "AssetKind": "All",
@@ -85,10 +85,10 @@
       "OriginalItemSpec": "wwwroot\\images\\strawberry.jpg"
     },
     {
-      "Identity": "C:\\Users\\Rebrcca\\Documents\\GitHub\\3.Semester\\Basketv2.0\\Basketv2.0\\wwwroot\\index.html",
+      "Identity": "C:\\Users\\rebec\\Documents\\GitHub\\3.Semester\\Basketv2.0\\Basketv2.0\\wwwroot\\index.html",
       "SourceId": "Basketv2.0",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Rebrcca\\Documents\\GitHub\\3.Semester\\Basketv2.0\\Basketv2.0\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\rebec\\Documents\\GitHub\\3.Semester\\Basketv2.0\\Basketv2.0\\wwwroot\\",
       "BasePath": "_content/Basketv2.0",
       "RelativePath": "index.html",
       "AssetKind": "All",
@@ -102,10 +102,10 @@
       "OriginalItemSpec": "wwwroot\\index.html"
     },
     {
-      "Identity": "C:\\Users\\Rebrcca\\Documents\\GitHub\\3.Semester\\Basketv2.0\\Basketv2.0\\wwwroot\\register.html",
+      "Identity": "C:\\Users\\rebec\\Documents\\GitHub\\3.Semester\\Basketv2.0\\Basketv2.0\\wwwroot\\register.html",
       "SourceId": "Basketv2.0",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Rebrcca\\Documents\\GitHub\\3.Semester\\Basketv2.0\\Basketv2.0\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\rebec\\Documents\\GitHub\\3.Semester\\Basketv2.0\\Basketv2.0\\wwwroot\\",
       "BasePath": "_content/Basketv2.0",
       "RelativePath": "register.html",
       "AssetKind": "All",
@@ -119,10 +119,10 @@
       "OriginalItemSpec": "wwwroot\\register.html"
     },
     {
-      "Identity": "C:\\Users\\Rebrcca\\Documents\\GitHub\\3.Semester\\Basketv2.0\\Basketv2.0\\wwwroot\\StyleSheet.css",
+      "Identity": "C:\\Users\\rebec\\Documents\\GitHub\\3.Semester\\Basketv2.0\\Basketv2.0\\wwwroot\\StyleSheet.css",
       "SourceId": "Basketv2.0",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Rebrcca\\Documents\\GitHub\\3.Semester\\Basketv2.0\\Basketv2.0\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\rebec\\Documents\\GitHub\\3.Semester\\Basketv2.0\\Basketv2.0\\wwwroot\\",
       "BasePath": "_content/Basketv2.0",
       "RelativePath": "StyleSheet.css",
       "AssetKind": "All",
