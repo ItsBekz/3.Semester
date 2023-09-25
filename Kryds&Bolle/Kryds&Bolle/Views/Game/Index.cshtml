@@ -16,43 +16,58 @@
 
 <p>Player: @ViewBag.Player</p>
 <p>Symbol: @ViewBag.PlayerSymbol</p>
+<p>Timer: </p>
 
-<form>
-    <table>
-        <tbody>
-            @for (int i = 0; i < GameController.game.Board.GetLength(0); i++)
-            {
-                <tr>
-                    @for (int j = 0; j < GameController.game.Board.GetLength(1); j++)
-                    {
-                        <td>
-                            <button onclick="clicked()" asp-route-itemid="@ViewBag.Player">@GameController.game.Board[i, j]</button>
-                        </td>
-                    }
-                </tr>
-            }
-        </tbody>
-    </table>
-</form>
+<table>
+    <tbody>
+        @for (int i = 0; i < GameController.game.Board.GetLength(0); i++)
+        {
+            <tr>
+                @for (int j = 0; j < GameController.game.Board.GetLength(1); j++)
+                {
+                    <td>
+                        <button onclick="clicked()" type="button" id="btn" name="@GameController.game.Board[i,j]" data-row="@i" data-col="@j">@ViewBag.Board</button>
+                    </td>
+                }
+            </tr>
+        }
+    </tbody>
+</table>
+
 
 
 
 <script>
-    function () {
-
-    }
-    function clicked() {
+    function clicked(button) {
         var player = {
-                id: '@ViewBag.Player',
-                reload: 'unknown' 
+            id: '@ViewBag.Player',
+            reload: 'unknown'
         }
-        fetch('/Game/MyTurn', {
+        var board = {
+            row: $(this).button('row'),
+            col: $(this).button('col')
+        }
+        fetch('/Game/UpdateBoard', {
             method: 'post',
             headers: {
             'Content-Type': 'application/json'
             },
-            body: JSON.stringify(player)
+            body: JSON.stringify(player), JSON.stringify(board)
         })
+            .then(function (response) {
+                if (response.status !== 200) {
+                    alert('fetch returned not ok' + response.status);
+                }
+                response.json().then(function (data) {
+                    if (data.reload == 'true') {
+                        alert('fetch was complete. Reload status is: ' + data.reload);
+                        location.reload();
+                    } else if (data.reload == 'false') {
+                        alert('fetch was complete. Reload status is: ' + data.reload);
+                        startTimer();
+                    }
+                });
+            })
 
     }
 </script>

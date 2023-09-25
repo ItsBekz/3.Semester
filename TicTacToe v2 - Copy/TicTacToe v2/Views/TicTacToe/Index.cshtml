@@ -1,0 +1,118 @@
+﻿@model TicTacToe_v2.Models.TicTacToe
+@using TicTacToe_v2.Controllers
+@{
+    ViewData["Title"] = "Game";
+}
+<style>
+    button{
+        width: 50px;
+        height: 50px;
+        align-items: center;
+    }
+    tabletd {
+        width: 50px;
+        height: 50px;
+        align-items: center;
+    }
+</style>
+
+<h1>Index</h1>
+
+<p>Player: @ViewBag.Player</p>
+<p>Symbol: @ViewBag.PlayerSymbol</p>
+@if(ViewBag.Player == TicTacToeController.game.activePlayer.ToString())
+{
+    <p>Status: It's your turn</p>
+}
+else
+{
+    <p>Status: Waiting for opponent..</p>
+    <p id="timer"></p>
+}
+
+<table>
+    <tbody>
+        @for (var row = 0; row < 3; row++)
+        {
+            <tr>
+                @for (var col = 0; col < 3; col++)
+                {
+                    var spaceTaken = TicTacToeController.game.board[row,col];
+                    if(spaceTaken == 1)
+                    {
+                        <td>X</td>
+                    }
+                    else if(spaceTaken == 2){
+                        <td>O</td>
+                    }
+                    else
+                    {
+                        <td><button type="button" onclick="chosenSpace(@row, @col)">-</button></td>
+                    }
+                }
+            </tr>
+        }
+    </tbody>
+</table>
+
+<script>
+    function chosenSpace(row, col) {
+        takeTurn(row, col);
+    }
+
+
+    function takeTurn(row, col) {
+        console.log("taking my turn, player: " + @ViewBag.Player + " row: " + row + " col: " + col);
+        $.ajax({
+            type: "post",
+            url: "/TicTacToe/TakeTurn",
+            data: { row: row, col: col },
+            success: function (data) {
+                console.log("success");
+                playerChange();
+            },
+            error: function (data) {
+                console.log("error");
+            }
+        });
+    }
+    var timeInterval;
+
+    function playerChange() {
+        var player = { id: '@ViewBag.Player', refreshStatus: 'false' };
+        fetch('TicTacToe/PlayerChange', {
+            method: 'post',
+            headers: {
+                'Content-Type': 'application/json'
+            },
+            body: JSON.stringify(player)
+        })
+        .then(function(response) {
+            if (response.status !== 200) {
+                alert('fetch error: ' + response.status);
+            }  
+            response.json().then(function (data) {
+                if (data.refreshStatus == 'true') {
+                    console.log("refreshing");
+                    reLoad();
+                }
+                else if (data.refreshStatus == 'false') {
+                    startTimer();
+                }
+            });
+        })
+        .catch(function(err) {
+            alert('fetch error: ' + err);
+        });
+    }
+
+    function reLoad() {
+        location.reload();
+    }
+
+    function startTimer() {
+        setTimeout(playerChange, 500);
+    }
+
+</script>
+
