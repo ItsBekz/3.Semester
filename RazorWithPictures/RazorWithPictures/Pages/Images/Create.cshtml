@@ -1,0 +1,23 @@
+﻿@page
+@model RazorWithPictures.Pages.Images.CreateModel
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Create</h1>
+
+<h4>Image</h4>
+<hr />
+<form asp-page-handler="UploadImage" method="post" enctype="multipart/form-data">
+    <input type="file" id="file1" name="file1" multiple="multiple" />
+    <button type="submit">Upload File(s)</button>
+</form>
+
+<div>
+    <a asp-page="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

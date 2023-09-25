@@ -1,0 +1,58 @@
+﻿@model Kryds_Bolle.Models.Game
+@using Kryds_Bolle.Controllers
+@{
+    ViewData["Title"] = "Index";
+}
+
+<style>
+    button{
+        width: 50px;
+        height: 50px;
+        align-items: center;
+    }
+</style>
+
+<h1>Index</h1>
+
+<p>Player: @ViewBag.Player</p>
+<p>Symbol: @ViewBag.PlayerSymbol</p>
+
+<form>
+    <table>
+        <tbody>
+            @for (int i = 0; i < GameController.game.Board.GetLength(0); i++)
+            {
+                <tr>
+                    @for (int j = 0; j < GameController.game.Board.GetLength(1); j++)
+                    {
+                        <td>
+                            <button onclick="clicked()" asp-route-itemid="@ViewBag.Player">@GameController.game.Board[i, j]</button>
+                        </td>
+                    }
+                </tr>
+            }
+        </tbody>
+    </table>
+</form>
+
+
+
+<script>
+    function () {
+
+    }
+    function clicked() {
+        var player = {
+                id: '@ViewBag.Player',
+                reload: 'unknown' 
+        }
+        fetch('/Game/MyTurn', {
+            method: 'post',
+            headers: {
+            'Content-Type': 'application/json'
+            },
+            body: JSON.stringify(player)
+        })
+
+    }
+</script>
