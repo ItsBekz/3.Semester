@@ -1,0 +1,52 @@
+﻿@page "/fetchdata"
+@inject HttpClient Http
+
+<PageTitle>Weather forecast</PageTitle>
+
+@using BlazorBasicAPI.Data
+@inject WeatherForecastService ForecastService
+
+<h1>Weather forecast</h1>
+
+<p>This component demonstrates fetching data from a service.</p>
+
+@if (forecasts == null)
+{
+    <p><em>Loading...</em></p>
+}
+else
+{
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Active</th>
+                <th>Age</th>
+                <th>Name</th>
+                <th>Description</th>
+                <th>Url</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var forecast in forecasts)
+            {
+                <tr>
+                    <td>@forecast.Active</td>
+                    <td>@forecast.Age</td>
+                    <td>@forecast.Name</td>
+                    <td>@forecast.Description</td>
+                    <td>@forecast.Url</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+
+@code {
+    private IEnumerable<WeatherForecast> forecasts;
+
+    protected override async Task OnInitializedAsync()
+    {
+        //forecasts = await ForecastService.GetForecastAsync(DateTime.Now);
+        forecasts = await Http.GetFromJsonAsync<IEnumerable<WeatherForecast>>("https://restpublic.junoeuro.dk/service1.svc/getListOfPersons/");
+    }
+}

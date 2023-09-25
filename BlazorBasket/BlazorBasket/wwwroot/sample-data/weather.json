@@ -1,0 +1,20 @@
+﻿[
+  {
+    "date": "2018-05-06",
+    "temperatureC": 1,
+    "summary": "cat1",
+    "imagePath": "/Images/cat1.jpg"
+  },
+  {
+    "date": "2018-05-07",
+    "temperatureC": 14,
+    "summary": "cat2",
+    "imagePath": "/Images/cat2.jpg"
+  },
+  {
+    "date": "2018-05-08",
+    "temperatureC": -13,
+    "summary": "cat3",
+    "imagePath": "/Images/cat3.jpg"
+  }
+]

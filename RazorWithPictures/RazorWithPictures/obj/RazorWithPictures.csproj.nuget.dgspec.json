@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\rebec\\Documents\\GitHub\\3.Semester\\RazorWithPictures\\RazorWithPictures\\RazorWithPictures.csproj": {}
+    "C:\\Users\\Rebrcca\\Documents\\GitHub\\3.Semester\\RazorWithPictures\\RazorWithPictures\\RazorWithPictures.csproj": {}
   },
   "projects": {
-    "C:\\Users\\rebec\\Documents\\GitHub\\3.Semester\\RazorWithPictures\\RazorWithPictures\\RazorWithPictures.csproj": {
+    "C:\\Users\\Rebrcca\\Documents\\GitHub\\3.Semester\\RazorWithPictures\\RazorWithPictures\\RazorWithPictures.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rebec\\Documents\\GitHub\\3.Semester\\RazorWithPictures\\RazorWithPictures\\RazorWithPictures.csproj",
+        "projectUniqueName": "C:\\Users\\Rebrcca\\Documents\\GitHub\\3.Semester\\RazorWithPictures\\RazorWithPictures\\RazorWithPictures.csproj",
         "projectName": "RazorWithPictures",
-        "projectPath": "C:\\Users\\rebec\\Documents\\GitHub\\3.Semester\\RazorWithPictures\\RazorWithPictures\\RazorWithPictures.csproj",
-        "packagesPath": "C:\\Users\\rebec\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rebec\\Documents\\GitHub\\3.Semester\\RazorWithPictures\\RazorWithPictures\\obj\\",
+        "projectPath": "C:\\Users\\Rebrcca\\Documents\\GitHub\\3.Semester\\RazorWithPictures\\RazorWithPictures\\RazorWithPictures.csproj",
+        "packagesPath": "C:\\Users\\Rebrcca\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Rebrcca\\Documents\\GitHub\\3.Semester\\RazorWithPictures\\RazorWithPictures\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\rebec\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Rebrcca\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -79,7 +79,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     }
