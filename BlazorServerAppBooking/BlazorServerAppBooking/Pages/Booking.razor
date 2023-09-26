@@ -1,0 +1,54 @@
+﻿@page "/booking"
+@using ServiceReference1
+
+<h3>Booking</h3>
+<h4>Book here</h4>
+<table>
+    @for (int i = 0; i < 3; i++)
+    {
+        <tr>
+            @for(int j = 0; j < 3; j++)
+            {
+                <td>
+                    <button class="btn-booking" @onclick="(() => BookSeat(i, j))"/>
+                </td>
+            }    
+        </tr>
+    }
+</table>
+
+
+
+@code {
+    public BookingItem[]? bookings;
+    public bool canBook = false;
+
+
+    public async Task BookSeat(int i, int j)
+    {
+        Service1Client client = new Service1Client(0);
+        int[,] seats = new int[3, 3]
+        {
+            {1, 2, 3},
+            {4, 5, 6},
+            {7, 8, 9}    
+        };
+        int seatNumber = seats[i, j];
+        canBook = await client.CreateBookingNumberAsync(seatNumber, seats.Length);
+        if (canBook)
+        {
+            bookings = await client.GetBookingItemsAsync(seatNumber);
+            await client.SetBookingItemsAsync(seatNumber, bookings);
+        }
+    }
+
+    protected override async Task OnInitializedAsync()
+    {
+        
+    }
+    
+}
+
+
+1. You Crate a bookingNumber by calling this method: bool CreateBookingNumber(int bookingNumber, int numberOfBookingItems)
+2. You use this bookingNumber to get or set the booking array, by using this methods: BookingItem[] GetBookingItems(int bookingNumber) - bool SetBookingItems(int bookingNumber, BookingItem[] bookings)

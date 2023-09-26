@@ -9,53 +9,57 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = BlazorBasicAPI
 build_property.RootNamespace = BlazorBasicAPI
-build_property.ProjectDir = C:\Users\Rebrcca\Documents\GitHub\3.Semester\BlazorBasicAPI\BlazorBasicAPI\
+build_property.ProjectDir = C:\Users\rebec\Documents\GitHub\3.Semester\BlazorBasicAPI\BlazorBasicAPI\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\Rebrcca\Documents\GitHub\3.Semester\BlazorBasicAPI\BlazorBasicAPI
+build_property.MSBuildProjectDirectory = C:\Users\rebec\Documents\GitHub\3.Semester\BlazorBasicAPI\BlazorBasicAPI
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/Rebrcca/Documents/GitHub/3.Semester/BlazorBasicAPI/BlazorBasicAPI/App.razor]
+[C:/Users/rebec/Documents/GitHub/3.Semester/BlazorBasicAPI/BlazorBasicAPI/App.razor]
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Rebrcca/Documents/GitHub/3.Semester/BlazorBasicAPI/BlazorBasicAPI/Pages/Counter.razor]
+[C:/Users/rebec/Documents/GitHub/3.Semester/BlazorBasicAPI/BlazorBasicAPI/Pages/ChosenURL.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2hvc2VuVVJMLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/rebec/Documents/GitHub/3.Semester/BlazorBasicAPI/BlazorBasicAPI/Pages/Counter.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRlci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Rebrcca/Documents/GitHub/3.Semester/BlazorBasicAPI/BlazorBasicAPI/Pages/FetchData.razor]
+[C:/Users/rebec/Documents/GitHub/3.Semester/BlazorBasicAPI/BlazorBasicAPI/Pages/FetchData.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRmV0Y2hEYXRhLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Rebrcca/Documents/GitHub/3.Semester/BlazorBasicAPI/BlazorBasicAPI/Pages/Index.razor]
+[C:/Users/rebec/Documents/GitHub/3.Semester/BlazorBasicAPI/BlazorBasicAPI/Pages/Index.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Rebrcca/Documents/GitHub/3.Semester/BlazorBasicAPI/BlazorBasicAPI/Shared/SurveyPrompt.razor]
+[C:/Users/rebec/Documents/GitHub/3.Semester/BlazorBasicAPI/BlazorBasicAPI/Shared/SurveyPrompt.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFN1cnZleVByb21wdC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Rebrcca/Documents/GitHub/3.Semester/BlazorBasicAPI/BlazorBasicAPI/_Imports.razor]
+[C:/Users/rebec/Documents/GitHub/3.Semester/BlazorBasicAPI/BlazorBasicAPI/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Rebrcca/Documents/GitHub/3.Semester/BlazorBasicAPI/BlazorBasicAPI/Shared/MainLayout.razor]
+[C:/Users/rebec/Documents/GitHub/3.Semester/BlazorBasicAPI/BlazorBasicAPI/Shared/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-kja6ekisf1
 
-[C:/Users/Rebrcca/Documents/GitHub/3.Semester/BlazorBasicAPI/BlazorBasicAPI/Shared/NavMenu.razor]
+[C:/Users/rebec/Documents/GitHub/3.Semester/BlazorBasicAPI/BlazorBasicAPI/Shared/NavMenu.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5hdk1lbnUucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-6dzld5s3gw
 
-[C:/Users/Rebrcca/Documents/GitHub/3.Semester/BlazorBasicAPI/BlazorBasicAPI/Pages/Error.cshtml]
+[C:/Users/rebec/Documents/GitHub/3.Semester/BlazorBasicAPI/BlazorBasicAPI/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Rebrcca/Documents/GitHub/3.Semester/BlazorBasicAPI/BlazorBasicAPI/Pages/_Host.cshtml]
+[C:/Users/rebec/Documents/GitHub/3.Semester/BlazorBasicAPI/BlazorBasicAPI/Pages/_Host.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX0hvc3QuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Rebrcca/Documents/GitHub/3.Semester/BlazorBasicAPI/BlazorBasicAPI/Pages/_Layout.cshtml]
+[C:/Users/rebec/Documents/GitHub/3.Semester/BlazorBasicAPI/BlazorBasicAPI/Pages/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX0xheW91dC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "nxTB64hBNIfhxIitRL2TxifAjHa0grCqoqvMAr+86ps=",
+  "Hash": "TEQYYF5M8+xQ2E/tiUN5sm83FPo1wzq+0RHuPzfS8pw=",
   "Source": "BlazorBasicAPI",
   "BasePath": "_content/BlazorBasicAPI",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "BlazorBasicAPI\\wwwroot",
       "Source": "BlazorBasicAPI",
-      "ContentRoot": "C:\\Users\\Rebrcca\\Documents\\GitHub\\3.Semester\\BlazorBasicAPI\\BlazorBasicAPI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\rebec\\Documents\\GitHub\\3.Semester\\BlazorBasicAPI\\BlazorBasicAPI\\wwwroot\\",
       "BasePath": "_content/BlazorBasicAPI",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\Rebrcca\\Documents\\GitHub\\3.Semester\\BlazorBasicAPI\\BlazorBasicAPI\\obj\\Debug\\net6.0\\scopedcss\\bundle\\BlazorBasicAPI.styles.css",
+      "Identity": "C:\\Users\\rebec\\Documents\\GitHub\\3.Semester\\BlazorBasicAPI\\BlazorBasicAPI\\obj\\Debug\\net6.0\\scopedcss\\bundle\\BlazorBasicAPI.styles.css",
       "SourceId": "BlazorBasicAPI",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Rebrcca\\Documents\\GitHub\\3.Semester\\BlazorBasicAPI\\BlazorBasicAPI\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\rebec\\Documents\\GitHub\\3.Semester\\BlazorBasicAPI\\BlazorBasicAPI\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
       "BasePath": "_content/BlazorBasicAPI",
       "RelativePath": "BlazorBasicAPI.styles.css",
       "AssetKind": "All",
@@ -31,13 +31,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Rebrcca\\Documents\\GitHub\\3.Semester\\BlazorBasicAPI\\BlazorBasicAPI\\obj\\Debug\\net6.0\\scopedcss\\bundle\\BlazorBasicAPI.styles.css"
+      "OriginalItemSpec": "C:\\Users\\rebec\\Documents\\GitHub\\3.Semester\\BlazorBasicAPI\\BlazorBasicAPI\\obj\\Debug\\net6.0\\scopedcss\\bundle\\BlazorBasicAPI.styles.css"
     },
     {
-      "Identity": "C:\\Users\\Rebrcca\\Documents\\GitHub\\3.Semester\\BlazorBasicAPI\\BlazorBasicAPI\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\BlazorBasicAPI.bundle.scp.css",
+      "Identity": "C:\\Users\\rebec\\Documents\\GitHub\\3.Semester\\BlazorBasicAPI\\BlazorBasicAPI\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\BlazorBasicAPI.bundle.scp.css",
       "SourceId": "BlazorBasicAPI",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Rebrcca\\Documents\\GitHub\\3.Semester\\BlazorBasicAPI\\BlazorBasicAPI\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\rebec\\Documents\\GitHub\\3.Semester\\BlazorBasicAPI\\BlazorBasicAPI\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/BlazorBasicAPI",
       "RelativePath": "BlazorBasicAPI.bundle.scp.css",
       "AssetKind": "All",
@@ -48,13 +48,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Rebrcca\\Documents\\GitHub\\3.Semester\\BlazorBasicAPI\\BlazorBasicAPI\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\BlazorBasicAPI.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\rebec\\Documents\\GitHub\\3.Semester\\BlazorBasicAPI\\BlazorBasicAPI\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\BlazorBasicAPI.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\Rebrcca\\Documents\\GitHub\\3.Semester\\BlazorBasicAPI\\BlazorBasicAPI\\wwwroot\\css\\app.css",
+      "Identity": "C:\\Users\\rebec\\Documents\\GitHub\\3.Semester\\BlazorBasicAPI\\BlazorBasicAPI\\wwwroot\\css\\app.css",
       "SourceId": "BlazorBasicAPI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Rebrcca\\Documents\\GitHub\\3.Semester\\BlazorBasicAPI\\BlazorBasicAPI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\rebec\\Documents\\GitHub\\3.Semester\\BlazorBasicAPI\\BlazorBasicAPI\\wwwroot\\",
       "BasePath": "_content/BlazorBasicAPI",
       "RelativePath": "css/app.css",
       "AssetKind": "All",
@@ -68,10 +68,10 @@
       "OriginalItemSpec": "wwwroot\\css\\app.css"
     },
     {
-      "Identity": "C:\\Users\\Rebrcca\\Documents\\GitHub\\3.Semester\\BlazorBasicAPI\\BlazorBasicAPI\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "Identity": "C:\\Users\\rebec\\Documents\\GitHub\\3.Semester\\BlazorBasicAPI\\BlazorBasicAPI\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
       "SourceId": "BlazorBasicAPI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Rebrcca\\Documents\\GitHub\\3.Semester\\BlazorBasicAPI\\BlazorBasicAPI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\rebec\\Documents\\GitHub\\3.Semester\\BlazorBasicAPI\\BlazorBasicAPI\\wwwroot\\",
       "BasePath": "_content/BlazorBasicAPI",
       "RelativePath": "css/bootstrap/bootstrap.min.css",
       "AssetKind": "All",
@@ -85,10 +85,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\Rebrcca\\Documents\\GitHub\\3.Semester\\BlazorBasicAPI\\BlazorBasicAPI\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\rebec\\Documents\\GitHub\\3.Semester\\BlazorBasicAPI\\BlazorBasicAPI\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
       "SourceId": "BlazorBasicAPI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Rebrcca\\Documents\\GitHub\\3.Semester\\BlazorBasicAPI\\BlazorBasicAPI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\rebec\\Documents\\GitHub\\3.Semester\\BlazorBasicAPI\\BlazorBasicAPI\\wwwroot\\",
       "BasePath": "_content/BlazorBasicAPI",
       "RelativePath": "css/bootstrap/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -102,10 +102,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Rebrcca\\Documents\\GitHub\\3.Semester\\BlazorBasicAPI\\BlazorBasicAPI\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
+      "Identity": "C:\\Users\\rebec\\Documents\\GitHub\\3.Semester\\BlazorBasicAPI\\BlazorBasicAPI\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
       "SourceId": "BlazorBasicAPI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Rebrcca\\Documents\\GitHub\\3.Semester\\BlazorBasicAPI\\BlazorBasicAPI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\rebec\\Documents\\GitHub\\3.Semester\\BlazorBasicAPI\\BlazorBasicAPI\\wwwroot\\",
       "BasePath": "_content/BlazorBasicAPI",
       "RelativePath": "css/open-iconic/font/css/open-iconic-bootstrap.min.css",
       "AssetKind": "All",
@@ -119,10 +119,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\Rebrcca\\Documents\\GitHub\\3.Semester\\BlazorBasicAPI\\BlazorBasicAPI\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
+      "Identity": "C:\\Users\\rebec\\Documents\\GitHub\\3.Semester\\BlazorBasicAPI\\BlazorBasicAPI\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
       "SourceId": "BlazorBasicAPI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Rebrcca\\Documents\\GitHub\\3.Semester\\BlazorBasicAPI\\BlazorBasicAPI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\rebec\\Documents\\GitHub\\3.Semester\\BlazorBasicAPI\\BlazorBasicAPI\\wwwroot\\",
       "BasePath": "_content/BlazorBasicAPI",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.eot",
       "AssetKind": "All",
@@ -136,10 +136,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot"
     },
     {
-      "Identity": "C:\\Users\\Rebrcca\\Documents\\GitHub\\3.Semester\\BlazorBasicAPI\\BlazorBasicAPI\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
+      "Identity": "C:\\Users\\rebec\\Documents\\GitHub\\3.Semester\\BlazorBasicAPI\\BlazorBasicAPI\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
       "SourceId": "BlazorBasicAPI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Rebrcca\\Documents\\GitHub\\3.Semester\\BlazorBasicAPI\\BlazorBasicAPI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\rebec\\Documents\\GitHub\\3.Semester\\BlazorBasicAPI\\BlazorBasicAPI\\wwwroot\\",
       "BasePath": "_content/BlazorBasicAPI",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.otf",
       "AssetKind": "All",
@@ -153,10 +153,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf"
     },
     {
-      "Identity": "C:\\Users\\Rebrcca\\Documents\\GitHub\\3.Semester\\BlazorBasicAPI\\BlazorBasicAPI\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
+      "Identity": "C:\\Users\\rebec\\Documents\\GitHub\\3.Semester\\BlazorBasicAPI\\BlazorBasicAPI\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
       "SourceId": "BlazorBasicAPI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Rebrcca\\Documents\\GitHub\\3.Semester\\BlazorBasicAPI\\BlazorBasicAPI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\rebec\\Documents\\GitHub\\3.Semester\\BlazorBasicAPI\\BlazorBasicAPI\\wwwroot\\",
       "BasePath": "_content/BlazorBasicAPI",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.svg",
       "AssetKind": "All",
@@ -170,10 +170,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg"
     },
     {
-      "Identity": "C:\\Users\\Rebrcca\\Documents\\GitHub\\3.Semester\\BlazorBasicAPI\\BlazorBasicAPI\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
+      "Identity": "C:\\Users\\rebec\\Documents\\GitHub\\3.Semester\\BlazorBasicAPI\\BlazorBasicAPI\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
       "SourceId": "BlazorBasicAPI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Rebrcca\\Documents\\GitHub\\3.Semester\\BlazorBasicAPI\\BlazorBasicAPI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\rebec\\Documents\\GitHub\\3.Semester\\BlazorBasicAPI\\BlazorBasicAPI\\wwwroot\\",
       "BasePath": "_content/BlazorBasicAPI",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.ttf",
       "AssetKind": "All",
@@ -187,10 +187,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf"
     },
     {
-      "Identity": "C:\\Users\\Rebrcca\\Documents\\GitHub\\3.Semester\\BlazorBasicAPI\\BlazorBasicAPI\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
+      "Identity": "C:\\Users\\rebec\\Documents\\GitHub\\3.Semester\\BlazorBasicAPI\\BlazorBasicAPI\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
       "SourceId": "BlazorBasicAPI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Rebrcca\\Documents\\GitHub\\3.Semester\\BlazorBasicAPI\\BlazorBasicAPI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\rebec\\Documents\\GitHub\\3.Semester\\BlazorBasicAPI\\BlazorBasicAPI\\wwwroot\\",
       "BasePath": "_content/BlazorBasicAPI",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.woff",
       "AssetKind": "All",
@@ -204,10 +204,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff"
     },
     {
-      "Identity": "C:\\Users\\Rebrcca\\Documents\\GitHub\\3.Semester\\BlazorBasicAPI\\BlazorBasicAPI\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
+      "Identity": "C:\\Users\\rebec\\Documents\\GitHub\\3.Semester\\BlazorBasicAPI\\BlazorBasicAPI\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
       "SourceId": "BlazorBasicAPI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Rebrcca\\Documents\\GitHub\\3.Semester\\BlazorBasicAPI\\BlazorBasicAPI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\rebec\\Documents\\GitHub\\3.Semester\\BlazorBasicAPI\\BlazorBasicAPI\\wwwroot\\",
       "BasePath": "_content/BlazorBasicAPI",
       "RelativePath": "css/open-iconic/FONT-LICENSE",
       "AssetKind": "All",
@@ -221,10 +221,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\FONT-LICENSE"
     },
     {
-      "Identity": "C:\\Users\\Rebrcca\\Documents\\GitHub\\3.Semester\\BlazorBasicAPI\\BlazorBasicAPI\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
+      "Identity": "C:\\Users\\rebec\\Documents\\GitHub\\3.Semester\\BlazorBasicAPI\\BlazorBasicAPI\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
       "SourceId": "BlazorBasicAPI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Rebrcca\\Documents\\GitHub\\3.Semester\\BlazorBasicAPI\\BlazorBasicAPI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\rebec\\Documents\\GitHub\\3.Semester\\BlazorBasicAPI\\BlazorBasicAPI\\wwwroot\\",
       "BasePath": "_content/BlazorBasicAPI",
       "RelativePath": "css/open-iconic/ICON-LICENSE",
       "AssetKind": "All",
@@ -238,10 +238,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\ICON-LICENSE"
     },
     {
-      "Identity": "C:\\Users\\Rebrcca\\Documents\\GitHub\\3.Semester\\BlazorBasicAPI\\BlazorBasicAPI\\wwwroot\\css\\open-iconic\\README.md",
+      "Identity": "C:\\Users\\rebec\\Documents\\GitHub\\3.Semester\\BlazorBasicAPI\\BlazorBasicAPI\\wwwroot\\css\\open-iconic\\README.md",
       "SourceId": "BlazorBasicAPI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Rebrcca\\Documents\\GitHub\\3.Semester\\BlazorBasicAPI\\BlazorBasicAPI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\rebec\\Documents\\GitHub\\3.Semester\\BlazorBasicAPI\\BlazorBasicAPI\\wwwroot\\",
       "BasePath": "_content/BlazorBasicAPI",
       "RelativePath": "css/open-iconic/README.md",
       "AssetKind": "All",
@@ -255,10 +255,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\README.md"
     },
     {
-      "Identity": "C:\\Users\\Rebrcca\\Documents\\GitHub\\3.Semester\\BlazorBasicAPI\\BlazorBasicAPI\\wwwroot\\css\\site.css",
+      "Identity": "C:\\Users\\rebec\\Documents\\GitHub\\3.Semester\\BlazorBasicAPI\\BlazorBasicAPI\\wwwroot\\css\\site.css",
       "SourceId": "BlazorBasicAPI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Rebrcca\\Documents\\GitHub\\3.Semester\\BlazorBasicAPI\\BlazorBasicAPI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\rebec\\Documents\\GitHub\\3.Semester\\BlazorBasicAPI\\BlazorBasicAPI\\wwwroot\\",
       "BasePath": "_content/BlazorBasicAPI",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -272,10 +272,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "C:\\Users\\Rebrcca\\Documents\\GitHub\\3.Semester\\BlazorBasicAPI\\BlazorBasicAPI\\wwwroot\\favicon.ico",
+      "Identity": "C:\\Users\\rebec\\Documents\\GitHub\\3.Semester\\BlazorBasicAPI\\BlazorBasicAPI\\wwwroot\\favicon.ico",
       "SourceId": "BlazorBasicAPI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Rebrcca\\Documents\\GitHub\\3.Semester\\BlazorBasicAPI\\BlazorBasicAPI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\rebec\\Documents\\GitHub\\3.Semester\\BlazorBasicAPI\\BlazorBasicAPI\\wwwroot\\",
       "BasePath": "_content/BlazorBasicAPI",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -289,10 +289,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\Rebrcca\\Documents\\GitHub\\3.Semester\\BlazorBasicAPI\\BlazorBasicAPI\\wwwroot\\icon-192.png",
+      "Identity": "C:\\Users\\rebec\\Documents\\GitHub\\3.Semester\\BlazorBasicAPI\\BlazorBasicAPI\\wwwroot\\icon-192.png",
       "SourceId": "BlazorBasicAPI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Rebrcca\\Documents\\GitHub\\3.Semester\\BlazorBasicAPI\\BlazorBasicAPI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\rebec\\Documents\\GitHub\\3.Semester\\BlazorBasicAPI\\BlazorBasicAPI\\wwwroot\\",
       "BasePath": "_content/BlazorBasicAPI",
       "RelativePath": "icon-192.png",
       "AssetKind": "All",
@@ -306,10 +306,10 @@
       "OriginalItemSpec": "wwwroot\\icon-192.png"
     },
     {
-      "Identity": "C:\\Users\\Rebrcca\\Documents\\GitHub\\3.Semester\\BlazorBasicAPI\\BlazorBasicAPI\\wwwroot\\index.html",
+      "Identity": "C:\\Users\\rebec\\Documents\\GitHub\\3.Semester\\BlazorBasicAPI\\BlazorBasicAPI\\wwwroot\\index.html",
       "SourceId": "BlazorBasicAPI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Rebrcca\\Documents\\GitHub\\3.Semester\\BlazorBasicAPI\\BlazorBasicAPI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\rebec\\Documents\\GitHub\\3.Semester\\BlazorBasicAPI\\BlazorBasicAPI\\wwwroot\\",
       "BasePath": "_content/BlazorBasicAPI",
       "RelativePath": "index.html",
       "AssetKind": "All",
@@ -323,10 +323,10 @@
       "OriginalItemSpec": "wwwroot\\index.html"
     },
     {
-      "Identity": "C:\\Users\\Rebrcca\\Documents\\GitHub\\3.Semester\\BlazorBasicAPI\\BlazorBasicAPI\\wwwroot\\sample-data\\weather.json",
+      "Identity": "C:\\Users\\rebec\\Documents\\GitHub\\3.Semester\\BlazorBasicAPI\\BlazorBasicAPI\\wwwroot\\sample-data\\weather.json",
       "SourceId": "BlazorBasicAPI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Rebrcca\\Documents\\GitHub\\3.Semester\\BlazorBasicAPI\\BlazorBasicAPI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\rebec\\Documents\\GitHub\\3.Semester\\BlazorBasicAPI\\BlazorBasicAPI\\wwwroot\\",
       "BasePath": "_content/BlazorBasicAPI",
       "RelativePath": "sample-data/weather.json",
       "AssetKind": "All",
