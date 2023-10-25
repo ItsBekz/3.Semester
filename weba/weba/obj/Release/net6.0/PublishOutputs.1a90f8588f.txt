@@ -1,0 +1,7 @@
+C:\Users\Rebrcca\Documents\GitHub\3.Semester\weba\weba\obj\Docker\publish\weba.exe
+C:\Users\Rebrcca\Documents\GitHub\3.Semester\weba\weba\obj\Docker\publish\appsettings.Development.json
+C:\Users\Rebrcca\Documents\GitHub\3.Semester\weba\weba\obj\Docker\publish\appsettings.json
+C:\Users\Rebrcca\Documents\GitHub\3.Semester\weba\weba\obj\Docker\publish\weba.dll
+C:\Users\Rebrcca\Documents\GitHub\3.Semester\weba\weba\obj\Docker\publish\weba.deps.json
+C:\Users\Rebrcca\Documents\GitHub\3.Semester\weba\weba\obj\Docker\publish\weba.runtimeconfig.json
+C:\Users\Rebrcca\Documents\GitHub\3.Semester\weba\weba\obj\Docker\publish\weba.pdb

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "pkxe3tsSL+Hqo3SHdvgI8w1pz1pfERMzxH/hOJYxg6tZxT2XBwaHiPlYV1WW0sQwss5KvchgvVna/fzUaRH4yA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Rebrcca\\Documents\\GitHub\\3.Semester\\weba\\weba\\weba.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Rebrcca\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.4\\microsoft.visualstudio.azure.containers.tools.targets.1.19.4.nupkg.sha512"
+  ],
+  "logs": []
+}
