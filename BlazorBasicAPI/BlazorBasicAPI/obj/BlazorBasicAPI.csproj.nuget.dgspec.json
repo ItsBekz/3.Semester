@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Rebrcca\\Documents\\GitHub\\3.Semester\\BlazorBasicAPI\\BlazorBasicAPI\\BlazorBasicAPI.csproj": {}
+    "C:\\Users\\rebec\\Documents\\GitHub\\3.Semester\\BlazorBasicAPI\\BlazorBasicAPI\\BlazorBasicAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Rebrcca\\Documents\\GitHub\\3.Semester\\BlazorBasicAPI\\BlazorBasicAPI\\BlazorBasicAPI.csproj": {
+    "C:\\Users\\rebec\\Documents\\GitHub\\3.Semester\\BlazorBasicAPI\\BlazorBasicAPI\\BlazorBasicAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Rebrcca\\Documents\\GitHub\\3.Semester\\BlazorBasicAPI\\BlazorBasicAPI\\BlazorBasicAPI.csproj",
+        "projectUniqueName": "C:\\Users\\rebec\\Documents\\GitHub\\3.Semester\\BlazorBasicAPI\\BlazorBasicAPI\\BlazorBasicAPI.csproj",
         "projectName": "BlazorBasicAPI",
-        "projectPath": "C:\\Users\\Rebrcca\\Documents\\GitHub\\3.Semester\\BlazorBasicAPI\\BlazorBasicAPI\\BlazorBasicAPI.csproj",
-        "packagesPath": "C:\\Users\\Rebrcca\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Rebrcca\\Documents\\GitHub\\3.Semester\\BlazorBasicAPI\\BlazorBasicAPI\\obj\\",
+        "projectPath": "C:\\Users\\rebec\\Documents\\GitHub\\3.Semester\\BlazorBasicAPI\\BlazorBasicAPI\\BlazorBasicAPI.csproj",
+        "packagesPath": "C:\\Users\\rebec\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\rebec\\Documents\\GitHub\\3.Semester\\BlazorBasicAPI\\BlazorBasicAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Rebrcca\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\rebec\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -63,7 +63,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }

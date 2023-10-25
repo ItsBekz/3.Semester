@@ -4,9 +4,9 @@
 
 [YES] Make a game
 
-[] When a player makes a move, change turn over to other player
+[YES] When a player makes a move, change turn over to other player
 
-[] Make a function that prints out the board 
+[YES] Make a function that prints out the board 
 
 [] Make a function that takes in a player input and assign their marker as 'X' or 'O'
 
