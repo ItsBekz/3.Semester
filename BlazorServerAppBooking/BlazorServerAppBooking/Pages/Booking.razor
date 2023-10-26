@@ -1,5 +1,7 @@
 ﻿@page "/booking"
 @using ServiceReference1
+@using BlazorServerAppBooking.Data
+@inject RoomGeneratorService RoomGeneratorService
 
 <h3>Booking</h3>
 <h4>Book here</h4>
@@ -10,43 +12,57 @@
             @for(int j = 0; j < 3; j++)
             {
                 <td>
-                    <button class="btn-booking" @onclick="(() => BookSeat(i, j))"/>
+                    <button class="free" @onclick="(() => BookSeat(i, j))"/>
                 </td>
             }    
         </tr>
     }
 </table>
+<p>@canBook</p>
+<p>@SeatNumber(3,3,9)</p>
+<p>@seats[0].isBooked</p>
 
 
 
 @code {
-    public BookingItem[]? bookings;
+    private Seat[] seats;
     public bool canBook = false;
+
+    protected override async Task OnInitializedAsync()
+    {
+        seats = await RoomGeneratorService.GetSeatsAsync(9);
+    }
 
 
     public async Task BookSeat(int i, int j)
     {
         Service1Client client = new Service1Client(0);
-        int[,] seats = new int[3, 3]
-        {
-            {1, 2, 3},
-            {4, 5, 6},
-            {7, 8, 9}    
-        };
-        int seatNumber = seats[i, j];
+        int seatNumber = await SeatNumber(i, j, seats.Length);
         canBook = await client.CreateBookingNumberAsync(seatNumber, seats.Length);
         if (canBook)
         {
-            bookings = await client.GetBookingItemsAsync(seatNumber);
-            await client.SetBookingItemsAsync(seatNumber, bookings);
+            seats[seatNumber].isBooked = true;
+            seats[seatNumber].state = "booked";
         }
     }
 
-    protected override async Task OnInitializedAsync()
+    private async Task<int> SeatNumber(int i, int j, int numberOfSeats)
     {
-        
+        int arraySize = (int)Math.Sqrt(numberOfSeats);
+        int[,] seatArray = new int[arraySize, arraySize];
+        int counter = 1;
+        for(int k = 0; k < arraySize; k++)
+        {
+            for(int l = 0; l < arraySize; l++)
+            {
+                seatArray[k, l] = counter;
+                counter++;
+            }
+        }
+
+        return seatArray[i, j];
     }
-    
+
 }
 
 
