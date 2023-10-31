@@ -1,0 +1,80 @@
+C:\Users\Rebrcca\Documents\GitHub\3.Semester\Microservices_V4\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache
+C:\Users\Rebrcca\Documents\GitHub\3.Semester\Microservices_V4\bin\Debug\api.deps.json
+C:\Users\Rebrcca\Documents\GitHub\3.Semester\Microservices_V4\bin\Debug\api.runtimeconfig.json
+C:\Users\Rebrcca\Documents\GitHub\3.Semester\Microservices_V4\bin\Debug\appsettings.Development.json
+C:\Users\Rebrcca\Documents\GitHub\3.Semester\Microservices_V4\bin\Debug\appsettings.json
+C:\Users\Rebrcca\Documents\GitHub\3.Semester\Microservices_V4\bin\Debug\api.exe
+C:\Users\Rebrcca\Documents\GitHub\3.Semester\Microservices_V4\bin\Debug\mvc.deps.json
+C:\Users\Rebrcca\Documents\GitHub\3.Semester\Microservices_V4\bin\Debug\mvc.runtimeconfig.json
+C:\Users\Rebrcca\Documents\GitHub\3.Semester\Microservices_V4\bin\Debug\mvc.staticwebassets.runtime.json
+C:\Users\Rebrcca\Documents\GitHub\3.Semester\Microservices_V4\bin\Debug\mvc.exe
+C:\Users\Rebrcca\Documents\GitHub\3.Semester\Microservices_V4\bin\Debug\api.dll
+C:\Users\Rebrcca\Documents\GitHub\3.Semester\Microservices_V4\bin\Debug\mvc.dll
+C:\Users\Rebrcca\Documents\GitHub\3.Semester\Microservices_V4\bin\Debug\Microsoft.Extensions.Caching.StackExchangeRedis.dll
+C:\Users\Rebrcca\Documents\GitHub\3.Semester\Microservices_V4\bin\Debug\Microsoft.EntityFrameworkCore.dll
+C:\Users\Rebrcca\Documents\GitHub\3.Semester\Microservices_V4\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Rebrcca\Documents\GitHub\3.Semester\Microservices_V4\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Rebrcca\Documents\GitHub\3.Semester\Microservices_V4\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Rebrcca\Documents\GitHub\3.Semester\Microservices_V4\bin\Debug\StackExchange.Redis.dll
+C:\Users\Rebrcca\Documents\GitHub\3.Semester\Microservices_V4\bin\Debug\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Rebrcca\Documents\GitHub\3.Semester\Microservices_V4\bin\Debug\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Rebrcca\Documents\GitHub\3.Semester\Microservices_V4\bin\Debug\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Rebrcca\Documents\GitHub\3.Semester\Microservices_V4\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Rebrcca\Documents\GitHub\3.Semester\Microservices_V4\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Rebrcca\Documents\GitHub\3.Semester\Microservices_V4\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Rebrcca\Documents\GitHub\3.Semester\Microservices_V4\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\Rebrcca\Documents\GitHub\3.Semester\Microservices_V4\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Rebrcca\Documents\GitHub\3.Semester\Microservices_V4\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Rebrcca\Documents\GitHub\3.Semester\Microservices_V4\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\Rebrcca\Documents\GitHub\3.Semester\Microservices_V4\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Rebrcca\Documents\GitHub\3.Semester\Microservices_V4\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\Rebrcca\Documents\GitHub\3.Semester\Microservices_V4\bin\Debug\Pipelines.Sockets.Unofficial.dll
+C:\Users\Rebrcca\Documents\GitHub\3.Semester\Microservices_V4\bin\Debug\System.Diagnostics.PerformanceCounter.dll
+C:\Users\Rebrcca\Documents\GitHub\3.Semester\Microservices_V4\bin\Debug\Microsoft.OpenApi.dll
+C:\Users\Rebrcca\Documents\GitHub\3.Semester\Microservices_V4\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Rebrcca\Documents\GitHub\3.Semester\Microservices_V4\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\Users\Rebrcca\Documents\GitHub\3.Semester\Microservices_V4\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\Rebrcca\Documents\GitHub\3.Semester\Microservices_V4\bin\Debug\api.pdb
+C:\Users\Rebrcca\Documents\GitHub\3.Semester\Microservices_V4\bin\Debug\mvc.pdb
+C:\Users\Rebrcca\Documents\GitHub\3.Semester\Microservices_V4\obj\Debug\docker-compose.dcproj.AssemblyReference.cache
+C:\Users\Rebrcca\Documents\GitHub\3.Semester\Microservices_V4\obj\Debug\docker-compose.dcproj.CopyComplete
+C:\Users\Rebrcca\Documents\GitHub\3.Semester\Microservices_V4 - Working backup\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache
+C:\Users\Rebrcca\Documents\GitHub\3.Semester\Microservices_V4 - Working backup\bin\Debug\appsettings.Development.json
+C:\Users\Rebrcca\Documents\GitHub\3.Semester\Microservices_V4 - Working backup\bin\Debug\appsettings.json
+C:\Users\Rebrcca\Documents\GitHub\3.Semester\Microservices_V4 - Working backup\bin\Debug\api.deps.json
+C:\Users\Rebrcca\Documents\GitHub\3.Semester\Microservices_V4 - Working backup\bin\Debug\api.runtimeconfig.json
+C:\Users\Rebrcca\Documents\GitHub\3.Semester\Microservices_V4 - Working backup\bin\Debug\api.exe
+C:\Users\Rebrcca\Documents\GitHub\3.Semester\Microservices_V4 - Working backup\bin\Debug\mvc.deps.json
+C:\Users\Rebrcca\Documents\GitHub\3.Semester\Microservices_V4 - Working backup\bin\Debug\mvc.runtimeconfig.json
+C:\Users\Rebrcca\Documents\GitHub\3.Semester\Microservices_V4 - Working backup\bin\Debug\mvc.staticwebassets.runtime.json
+C:\Users\Rebrcca\Documents\GitHub\3.Semester\Microservices_V4 - Working backup\bin\Debug\mvc.exe
+C:\Users\Rebrcca\Documents\GitHub\3.Semester\Microservices_V4 - Working backup\bin\Debug\api.dll
+C:\Users\Rebrcca\Documents\GitHub\3.Semester\Microservices_V4 - Working backup\bin\Debug\mvc.dll
+C:\Users\Rebrcca\Documents\GitHub\3.Semester\Microservices_V4 - Working backup\bin\Debug\Microsoft.Extensions.Caching.StackExchangeRedis.dll
+C:\Users\Rebrcca\Documents\GitHub\3.Semester\Microservices_V4 - Working backup\bin\Debug\Microsoft.EntityFrameworkCore.dll
+C:\Users\Rebrcca\Documents\GitHub\3.Semester\Microservices_V4 - Working backup\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Rebrcca\Documents\GitHub\3.Semester\Microservices_V4 - Working backup\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Rebrcca\Documents\GitHub\3.Semester\Microservices_V4 - Working backup\bin\Debug\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Rebrcca\Documents\GitHub\3.Semester\Microservices_V4 - Working backup\bin\Debug\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Rebrcca\Documents\GitHub\3.Semester\Microservices_V4 - Working backup\bin\Debug\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Rebrcca\Documents\GitHub\3.Semester\Microservices_V4 - Working backup\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Rebrcca\Documents\GitHub\3.Semester\Microservices_V4 - Working backup\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Rebrcca\Documents\GitHub\3.Semester\Microservices_V4 - Working backup\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Rebrcca\Documents\GitHub\3.Semester\Microservices_V4 - Working backup\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Rebrcca\Documents\GitHub\3.Semester\Microservices_V4 - Working backup\bin\Debug\StackExchange.Redis.dll
+C:\Users\Rebrcca\Documents\GitHub\3.Semester\Microservices_V4 - Working backup\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\Rebrcca\Documents\GitHub\3.Semester\Microservices_V4 - Working backup\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Rebrcca\Documents\GitHub\3.Semester\Microservices_V4 - Working backup\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Rebrcca\Documents\GitHub\3.Semester\Microservices_V4 - Working backup\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\Rebrcca\Documents\GitHub\3.Semester\Microservices_V4 - Working backup\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Rebrcca\Documents\GitHub\3.Semester\Microservices_V4 - Working backup\bin\Debug\Microsoft.OpenApi.dll
+C:\Users\Rebrcca\Documents\GitHub\3.Semester\Microservices_V4 - Working backup\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\Rebrcca\Documents\GitHub\3.Semester\Microservices_V4 - Working backup\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Rebrcca\Documents\GitHub\3.Semester\Microservices_V4 - Working backup\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\Users\Rebrcca\Documents\GitHub\3.Semester\Microservices_V4 - Working backup\bin\Debug\Pipelines.Sockets.Unofficial.dll
+C:\Users\Rebrcca\Documents\GitHub\3.Semester\Microservices_V4 - Working backup\bin\Debug\System.Diagnostics.PerformanceCounter.dll
+C:\Users\Rebrcca\Documents\GitHub\3.Semester\Microservices_V4 - Working backup\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\Rebrcca\Documents\GitHub\3.Semester\Microservices_V4 - Working backup\bin\Debug\api.pdb
+C:\Users\Rebrcca\Documents\GitHub\3.Semester\Microservices_V4 - Working backup\bin\Debug\mvc.pdb
+C:\Users\Rebrcca\Documents\GitHub\3.Semester\Microservices_V4 - Working backup\obj\Debug\docker-compose.dcproj.AssemblyReference.cache
+C:\Users\Rebrcca\Documents\GitHub\3.Semester\Microservices_V4 - Working backup\obj\Debug\docker-compose.dcproj.CopyComplete

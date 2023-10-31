@@ -9,49 +9,49 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = HouseAndWindowsRazor
 build_property.RootNamespace = HouseAndWindowsRazor
-build_property.ProjectDir = C:\Users\rebec\Documents\GitHub\3.Semester\HouseAndWindowsRazor\HouseAndWindowsRazor\
+build_property.ProjectDir = C:\Users\Rebrcca\Documents\GitHub\3.Semester\HouseAndWindowsRazor\HouseAndWindowsRazor\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\rebec\Documents\GitHub\3.Semester\HouseAndWindowsRazor\HouseAndWindowsRazor
+build_property.MSBuildProjectDirectory = C:\Users\Rebrcca\Documents\GitHub\3.Semester\HouseAndWindowsRazor\HouseAndWindowsRazor
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/rebec/Documents/GitHub/3.Semester/HouseAndWindowsRazor/HouseAndWindowsRazor/Pages/Error.cshtml]
+[C:/Users/Rebrcca/Documents/GitHub/3.Semester/HouseAndWindowsRazor/HouseAndWindowsRazor/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/rebec/Documents/GitHub/3.Semester/HouseAndWindowsRazor/HouseAndWindowsRazor/Pages/HouseCreate.cshtml]
+[C:/Users/Rebrcca/Documents/GitHub/3.Semester/HouseAndWindowsRazor/HouseAndWindowsRazor/Pages/HouseCreate.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSG91c2VDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/rebec/Documents/GitHub/3.Semester/HouseAndWindowsRazor/HouseAndWindowsRazor/Pages/HouseEdit.cshtml]
+[C:/Users/Rebrcca/Documents/GitHub/3.Semester/HouseAndWindowsRazor/HouseAndWindowsRazor/Pages/HouseEdit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSG91c2VFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/rebec/Documents/GitHub/3.Semester/HouseAndWindowsRazor/HouseAndWindowsRazor/Pages/Houses.cshtml]
+[C:/Users/Rebrcca/Documents/GitHub/3.Semester/HouseAndWindowsRazor/HouseAndWindowsRazor/Pages/Houses.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSG91c2VzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/rebec/Documents/GitHub/3.Semester/HouseAndWindowsRazor/HouseAndWindowsRazor/Pages/Index.cshtml]
+[C:/Users/Rebrcca/Documents/GitHub/3.Semester/HouseAndWindowsRazor/HouseAndWindowsRazor/Pages/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/rebec/Documents/GitHub/3.Semester/HouseAndWindowsRazor/HouseAndWindowsRazor/Pages/Privacy.cshtml]
+[C:/Users/Rebrcca/Documents/GitHub/3.Semester/HouseAndWindowsRazor/HouseAndWindowsRazor/Pages/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/rebec/Documents/GitHub/3.Semester/HouseAndWindowsRazor/HouseAndWindowsRazor/Pages/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/Rebrcca/Documents/GitHub/3.Semester/HouseAndWindowsRazor/HouseAndWindowsRazor/Pages/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/rebec/Documents/GitHub/3.Semester/HouseAndWindowsRazor/HouseAndWindowsRazor/Pages/_ViewImports.cshtml]
+[C:/Users/Rebrcca/Documents/GitHub/3.Semester/HouseAndWindowsRazor/HouseAndWindowsRazor/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/rebec/Documents/GitHub/3.Semester/HouseAndWindowsRazor/HouseAndWindowsRazor/Pages/_ViewStart.cshtml]
+[C:/Users/Rebrcca/Documents/GitHub/3.Semester/HouseAndWindowsRazor/HouseAndWindowsRazor/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/rebec/Documents/GitHub/3.Semester/HouseAndWindowsRazor/HouseAndWindowsRazor/Pages/Shared/_Layout.cshtml]
+[C:/Users/Rebrcca/Documents/GitHub/3.Semester/HouseAndWindowsRazor/HouseAndWindowsRazor/Pages/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-dzfe5szgcr

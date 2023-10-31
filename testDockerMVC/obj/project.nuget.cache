@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "SZAkCdj7y4sAtt0kKfJH0ncKMOPvW3E8kGteNoWuk2xLLIa9ib2Q+LHnKRzn6uyPHYlTh+seIspkfZ6ChGipRA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Rebrcca\\Documents\\GitHub\\3.Semester\\testDockerMVC\\testDockerMVC.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Rebrcca\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.4\\microsoft.visualstudio.azure.containers.tools.targets.1.19.4.nupkg.sha512"
+  ],
+  "logs": []
+}

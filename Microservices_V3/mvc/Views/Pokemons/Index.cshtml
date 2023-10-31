@@ -1,0 +1,7 @@
+﻿@model PokemonViewModel
+
+@using (Html.BeginForm("GetPokemonData", "Pokemon", FormMethod.Post))
+{
+    @Html.DropDownListFor(model => model.SelectedPokemonName, new SelectList(Model.AvailablePokemons), "Select a Pokémon")
+    <input type="submit" value="Get Pokémon Data"/>
+}

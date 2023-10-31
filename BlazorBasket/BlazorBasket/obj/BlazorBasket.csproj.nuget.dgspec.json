@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\rebec\\Documents\\GitHub\\3.Semester\\BlazorBasket\\BlazorBasket\\BlazorBasket.csproj": {}
+    "C:\\Users\\Rebrcca\\Documents\\GitHub\\3.Semester\\BlazorBasket\\BlazorBasket\\BlazorBasket.csproj": {}
   },
   "projects": {
-    "C:\\Users\\rebec\\Documents\\GitHub\\3.Semester\\BlazorBasket\\BlazorBasket\\BlazorBasket.csproj": {
+    "C:\\Users\\Rebrcca\\Documents\\GitHub\\3.Semester\\BlazorBasket\\BlazorBasket\\BlazorBasket.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rebec\\Documents\\GitHub\\3.Semester\\BlazorBasket\\BlazorBasket\\BlazorBasket.csproj",
+        "projectUniqueName": "C:\\Users\\Rebrcca\\Documents\\GitHub\\3.Semester\\BlazorBasket\\BlazorBasket\\BlazorBasket.csproj",
         "projectName": "BlazorBasket",
-        "projectPath": "C:\\Users\\rebec\\Documents\\GitHub\\3.Semester\\BlazorBasket\\BlazorBasket\\BlazorBasket.csproj",
-        "packagesPath": "C:\\Users\\rebec\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rebec\\Documents\\GitHub\\3.Semester\\BlazorBasket\\BlazorBasket\\obj\\",
+        "projectPath": "C:\\Users\\Rebrcca\\Documents\\GitHub\\3.Semester\\BlazorBasket\\BlazorBasket\\BlazorBasket.csproj",
+        "packagesPath": "C:\\Users\\Rebrcca\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Rebrcca\\Documents\\GitHub\\3.Semester\\BlazorBasket\\BlazorBasket\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\rebec\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Rebrcca\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -66,12 +66,18 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Runtime.Mono.browser-wasm",
+              "version": "[6.0.22, 6.0.22]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
         }
       },
       "runtimes": {

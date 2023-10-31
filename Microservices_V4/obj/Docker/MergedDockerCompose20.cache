@@ -1,0 +1,53 @@
+name: dockercompose12213561594072236323
+services:
+  api:
+    build:
+      context: C:\Users\Rebrcca\Documents\GitHub\3.Semester\Microservices_V4 - Working backup
+      dockerfile: api/Dockerfile
+    depends_on:
+      sql:
+        condition: service_started
+        required: true
+    image: api
+    networks:
+      default: null
+    ports:
+      - mode: ingress
+        target: 80
+        published: "8081"
+        protocol: tcp
+  mvc:
+    build:
+      context: C:\Users\Rebrcca\Documents\GitHub\3.Semester\Microservices_V4 - Working backup
+      dockerfile: mvc/Dockerfile
+    depends_on:
+      api:
+        condition: service_started
+        required: true
+    image: mvc
+    networks:
+      default: null
+    ports:
+      - mode: ingress
+        target: 80
+        published: "8080"
+        protocol: tcp
+  redis:
+    image: redis
+    networks:
+      default: null
+  sql:
+    environment:
+      ACCEPT_EULA: "Y"
+      MSSQL_SA_PASSWORD: Password1
+    image: customdbimg:latest
+    networks:
+      default: null
+    ports:
+      - mode: ingress
+        target: 1433
+        published: "1433"
+        protocol: tcp
+networks:
+  default:
+    name: dockercompose12213561594072236323_default
