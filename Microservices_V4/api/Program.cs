@@ -23,7 +23,7 @@ builder.Services.AddStackExchangeRedisCache(options =>
 
 
 
-// Calls the static. in the () it adds the builder services.
+// Calls the static ServiceRegister and uses the builder.services in the parameter, so we can call all the services in the static method
 ServicesRegister.AddServices(builder.Services);
 
 var app = builder.Build();

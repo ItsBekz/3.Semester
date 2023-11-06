@@ -9639,11 +9639,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Rebrcca\\Documents\\GitHub\\3.Semester\\Microservices_V4 - Working backup\\mvc\\mvc.csproj",
+      "projectUniqueName": "C:\\Users\\Rebrcca\\Documents\\GitHub\\3.Semester\\Microservices_V4\\mvc\\mvc.csproj",
       "projectName": "mvc",
-      "projectPath": "C:\\Users\\Rebrcca\\Documents\\GitHub\\3.Semester\\Microservices_V4 - Working backup\\mvc\\mvc.csproj",
+      "projectPath": "C:\\Users\\Rebrcca\\Documents\\GitHub\\3.Semester\\Microservices_V4\\mvc\\mvc.csproj",
       "packagesPath": "C:\\Users\\Rebrcca\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Rebrcca\\Documents\\GitHub\\3.Semester\\Microservices_V4 - Working backup\\mvc\\obj\\",
+      "outputPath": "C:\\Users\\Rebrcca\\Documents\\GitHub\\3.Semester\\Microservices_V4\\mvc\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

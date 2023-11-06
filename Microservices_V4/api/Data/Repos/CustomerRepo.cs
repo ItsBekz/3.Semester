@@ -4,6 +4,7 @@ using api.Models;
 namespace api.Data.Repos
 {
     // Calls all the CRUD commands you want
+    // Make Error checks and so on here too
     public class CustomerRepo : ICustomerRepo
     {
         private readonly CustomerDbContext _context;
@@ -16,6 +17,7 @@ namespace api.Data.Repos
         // CRUD
         public Customers CreateCustomer(Customers customer)
         {
+            // Since we use Encore we can just use Add directly instead of calling the SQL Queries
             _context.Customers.Add(customer);
 
             return customer;

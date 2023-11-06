@@ -7,7 +7,8 @@ namespace api.Controllers.Services
     public class CustomerService : ICustomerService
     {
         // Gets called from Controller.
-        // Calls the UnitOfWork
+        // Makes it so the controller doesn't have a bunch of code in it and also don't have big inside in the background work
+        // This is basically the boss, that has access to the manager(UnitOfWork) and tells the manager what we want
         // _ in front = private variable
         private readonly IUnitOfWork _unitOfWork;
         private readonly ILogger<CustomerService> _logger;

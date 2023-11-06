@@ -4,6 +4,7 @@ using api.Data.Repos.Interfaces;
 namespace api.Data
 {
     // Unit of work calls the CustomerRepo and the DbContext
+    // Unit of Work is like a manager that has access to all the different workers(CustomerRepo)
     public class UnitOfWork : IUnitOfWork
     {
         private CustomerDbContext _context;

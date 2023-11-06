@@ -4,6 +4,10 @@ using api.Models;
 
 namespace api.Controllers
 {
+    // We use the Service here, so that we can call simple methods we need, and don't have too much code inside out controller.
+    // Since our controller should only be making the call and not all the background work
+    // The controller calls the customerservice(Boss) who then calls UnitOfWork(Manager) which delegate the work to the necessary workers
+    // Who then do all the background work we need done.
     [ApiController]
     [Route("[controller]")]
     public class CustomersController : Controller
@@ -41,7 +45,7 @@ namespace api.Controllers
             return Ok(newCustomer);
         }
 
-        [HttpGet("delete")]
+        [HttpGet("delete/{id}")]
         [ProducesResponseType(StatusCodes.Status200OK, Type = typeof(Customers))]
         public IActionResult DeleteCustomerById(int id)
         {
